@@ -70,9 +70,9 @@ jobs:
             **${{ steps.stats.outputs.total }} skills** répartis en **${{ steps.stats.outputs.bundles }} bundles** thématiques.
 
             ```
-            /plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+            /plugin marketplace add https://github.com/vantaflow/claude-skills-collection
             /plugin install claude-skills-dev        # ou -agents, -cloud-ops, -data, -security, -business, -life
             /plugin install claude-skills-collection # tout, ~56 000 tokens de contexte permanent
             ```
 
-            Coût de contexte par bundle et catalogue complet : [README](https://github.com/khalilbenaz/claude-skills-collection#-installation).
+            Coût de contexte par bundle et catalogue complet : [README](https://github.com/vantaflow/claude-skills-collection#-installation).

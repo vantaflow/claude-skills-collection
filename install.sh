@@ -16,8 +16,8 @@
 set -e
 
 # SKILLS_BASE permet de tester en local : SKILLS_BASE="file:///chemin/du/repo" ./install.sh …
-BASE="${SKILLS_BASE:-https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main}"
-CATALOG="https://khalilbenaz.github.io/claude-skills-collection/manuals/"
+BASE="${SKILLS_BASE:-https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main}"
+CATALOG="https://vantaflow.github.io/claude-skills-collection/manuals/"
 DEST_ROOT="$HOME/.claude/skills"
 LAUNCH=0
 MODE=names

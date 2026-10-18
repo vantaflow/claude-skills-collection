@@ -61,7 +61,7 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 </style>
 </head>
 <body>
-<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/khalilbenaz/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
+<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/vantaflow/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
 <main>
 <span class="badge">💻 Développement</span>
 <h1 class="skill-title">dev-go-concurrency-guide</h1>
@@ -73,24 +73,24 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 <h2>⚡ Installation &amp; lancement en 1 commande</h2>
 <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Copiez-collez dans votre terminal : le skill s'installe dans <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">~/.claude/skills</code> et Claude Code se lance directement dessus.</p>
 <div class="cmd-label">macOS / Linux</div>
-<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- dev-go-concurrency-guide --launch</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- dev-go-concurrency-guide --launch</div><button class="copy-btn">Copier</button></div>
 <div class="cmd-label" style="margin-top:.8rem">Windows (PowerShell)</div>
-<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } dev-go-concurrency-guide -Launch&quot;</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } dev-go-concurrency-guide -Launch&quot;</div><button class="copy-btn">Copier</button></div>
 </div>
 
 <div class="panel">
 <h2>🚀 Déjà installé ?</h2>
 <div class="cmd-block"><div class="invoke">claude &quot;/dev-go-concurrency-guide&quot;</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/dev-go-concurrency-guide</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/dev-go-concurrency-guide</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
 </div>
 
 <div class="panel"><h2>🔑 Déclencheurs automatiques</h2><p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Le skill s'active automatiquement quand votre demande contient :</p><div class="triggers"><span class="trigger">Go</span><span class="trigger">Golang</span><span class="trigger">goroutine</span><span class="trigger">channel</span><span class="trigger">sync</span><span class="trigger">concurrency</span><span class="trigger">Go modules</span><span class="trigger">Go patterns</span><span class="trigger">interface Go</span><span class="trigger">Go goroutines</span><span class="trigger">channels in Go</span><span class="trigger">Go concurrency pattern</span></div></div>
 
 <div class="panel">
 <h2>📦 Installation manuelle</h2>
-<div class="cmd-block"><div class="invoke">git clone https://github.com/khalilbenaz/claude-skills-collection.git
+<div class="cmd-block"><div class="invoke">git clone https://github.com/vantaflow/claude-skills-collection.git
 cp -r claude-skills-collection/skills/dev-go-concurrency-guide ~/.claude/skills/</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/skills/dev-go-concurrency-guide" target="_blank">skills/dev-go-concurrency-guide</a> · source éditable : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/dev-skills/go-concurrency-guide" target="_blank">dev-skills/go-concurrency-guide</a></p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/skills/dev-go-concurrency-guide" target="_blank">skills/dev-go-concurrency-guide</a> · source éditable : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/dev-skills/go-concurrency-guide" target="_blank">dev-skills/go-concurrency-guide</a></p>
 </div>
 
 <article class="manual">
@@ -259,7 +259,7 @@ govulncheck ./...</code></pre>
 <table><thead><tr><th>Piège</th><th>Symptôme</th><th>Correction</th></tr></thead><tbody><tr><td>Goroutine leak</td><td>Goroutines qui ne se terminent jamais</td><td>Toujours <code>ctx.Done()</code> ou fermeture du channel</td></tr><tr><td>Race condition</td><td><code>go test -race</code> détecte des accès concurrents</td><td><code>sync.Mutex</code> ou ownership clair</td></tr><tr><td>Channel blocking</td><td>Deadlock au runtime</td><td>Buffered channel ou goroutine séparée pour envoyer</td></tr><tr><td>Capturer variable de loop</td><td><code>go func() { use(i) }()</code> prend la dernière valeur</td><td><code>i := i</code> avant le <code>go</code>, ou Go 1.22+ (loop var par itération)</td></tr><tr><td>Panic non récupéré</td><td>Crash du process entier</td><td><code>defer func() { recover() }()</code> dans chaque goroutine long-lived</td></tr><tr><td>Context dans struct</td><td>API difficile à annuler</td><td>Toujours passer <code>ctx</code> en paramètre</td></tr><tr><td><code>sync.Map</code> par défaut</td><td>Perf dégradée</td><td>N'utiliser que pour des maps avec insertions rares et lectures très fréquentes</td></tr></tbody></table>
 </article>
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 document.querySelectorAll('.copy-btn').forEach(b=>b.addEventListener('click',()=>{
   navigator.clipboard.writeText(b.previousElementSibling.textContent).then(()=>{

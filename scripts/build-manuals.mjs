@@ -379,7 +379,7 @@ ${triggersHtml}
 ${mdToHtml(s.body)}
 </article>
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 document.querySelectorAll('.copy-btn').forEach(b=>b.addEventListener('click',()=>{
   navigator.clipboard.writeText(b.previousElementSibling.textContent).then(()=>{
@@ -420,7 +420,7 @@ ${navHtml(1)}
 <input class="search" id="q" type="search" placeholder="Rechercher un skill… (ex : terraform, oauth, cv)" autofocus>
 ${sections}
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 const q=document.getElementById('q');
 q.addEventListener('input',()=>{
@@ -485,7 +485,7 @@ ${navHtml(1)}
 <input class="search" id="q" type="search" placeholder="Rechercher un cas d'usage… (ex : burnout, kubernetes, freelance)">
 ${sections}
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 const q=document.getElementById('q');
 q.addEventListener('input',()=>{

@@ -10,9 +10,9 @@ import { join, dirname } from 'node:path';
 
 export const ROOT = join(import.meta.dirname, '..', '..');
 
-export const REPO = 'https://github.com/khalilbenaz/claude-skills-collection';
-export const RAW = 'https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main';
-export const PAGES = 'https://khalilbenaz.github.io/claude-skills-collection';
+export const REPO = 'https://github.com/vantaflow/claude-skills-collection';
+export const RAW = 'https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main';
+export const PAGES = 'https://vantaflow.github.io/claude-skills-collection';
 
 export const CATEGORY_META = {
   'agent-skills':         { label: 'Agents IA',        icon: '🤖', color: '#7c5cfc' },

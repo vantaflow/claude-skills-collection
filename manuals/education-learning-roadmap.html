@@ -61,7 +61,7 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 </style>
 </head>
 <body>
-<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/khalilbenaz/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
+<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/vantaflow/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
 <main>
 <span class="badge">🎓 Éducation</span>
 <h1 class="skill-title">education-learning-roadmap</h1>
@@ -73,24 +73,24 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 <h2>⚡ Installation &amp; lancement en 1 commande</h2>
 <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Copiez-collez dans votre terminal : le skill s'installe dans <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">~/.claude/skills</code> et Claude Code se lance directement dessus.</p>
 <div class="cmd-label">macOS / Linux</div>
-<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- education-learning-roadmap --launch</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- education-learning-roadmap --launch</div><button class="copy-btn">Copier</button></div>
 <div class="cmd-label" style="margin-top:.8rem">Windows (PowerShell)</div>
-<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } education-learning-roadmap -Launch&quot;</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } education-learning-roadmap -Launch&quot;</div><button class="copy-btn">Copier</button></div>
 </div>
 
 <div class="panel">
 <h2>🚀 Déjà installé ?</h2>
 <div class="cmd-block"><div class="invoke">claude &quot;/education-learning-roadmap&quot;</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/education-learning-roadmap</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/education-learning-roadmap</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
 </div>
 
 <div class="panel"><h2>🔑 Déclencheurs automatiques</h2><p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Le skill s'active automatiquement quand votre demande contient :</p><div class="triggers"><span class="trigger">je veux apprendre</span><span class="trigger">roadmap</span><span class="trigger">par où commencer pour</span><span class="trigger">parcours d'apprentissage</span><span class="trigger">comment devenir</span><span class="trigger">plan d'apprentissage</span><span class="trigger">learning roadmap</span><span class="trigger">how do I learn this</span><span class="trigger">study path</span></div></div>
 
 <div class="panel">
 <h2>📦 Installation manuelle</h2>
-<div class="cmd-block"><div class="invoke">git clone https://github.com/khalilbenaz/claude-skills-collection.git
+<div class="cmd-block"><div class="invoke">git clone https://github.com/vantaflow/claude-skills-collection.git
 cp -r claude-skills-collection/skills/education-learning-roadmap ~/.claude/skills/</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/skills/education-learning-roadmap" target="_blank">skills/education-learning-roadmap</a> · source éditable : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/education-skills/learning-roadmap" target="_blank">education-skills/learning-roadmap</a></p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/skills/education-learning-roadmap" target="_blank">skills/education-learning-roadmap</a> · source éditable : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/education-skills/learning-roadmap" target="_blank">education-skills/learning-roadmap</a></p>
 </div>
 
 <article class="manual">
@@ -188,7 +188,7 @@ Checkpoint : pipeline CI verte, coverage &gt; 80 %</code></pre>
 </ul>
 </article>
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 document.querySelectorAll('.copy-btn').forEach(b=>b.addEventListener('click',()=>{
   navigator.clipboard.writeText(b.previousElementSibling.textContent).then(()=>{

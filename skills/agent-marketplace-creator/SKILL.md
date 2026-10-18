@@ -53,7 +53,7 @@ my-agent/
 name: my-data-analyst
 version: 1.2.0
 description: Analyse des fichiers CSV et génère des rapports visuels.
-author: k.benazzouz@b3gtech.com
+author: 76207730+vantaflow@users.noreply.github.com
 license: MIT
 category: data
 tags: [csv, analysis, reporting]

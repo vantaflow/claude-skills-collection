@@ -31,7 +31,7 @@ The collection ships as **seven thematic plugins**. Each one installs on its own
 own skills.
 
 ```bash
-/plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+/plugin marketplace add https://github.com/vantaflow/claude-skills-collection
 /plugin install claude-skills-security     # 10 skills, ~1,800 tokens of context
 ```
 
@@ -54,7 +54,7 @@ in. The figures come from `claude plugin details` and are recomputed by `npm run
 ### 2. The whole collection
 
 ```bash
-/plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+/plugin marketplace add https://github.com/vantaflow/claude-skills-collection
 /plugin install claude-skills-collection
 ```
 
@@ -67,16 +67,16 @@ Lightest option: only the skills you pick are copied into `~/.claude/skills`.
 
 ```bash
 # macOS / Linux
-curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- dev-code-reviewer --launch
+curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- dev-code-reviewer --launch
 curl -fsSL .../install.sh | sh -s -- --category security     # every security skill
 curl -fsSL .../install.sh | sh -s -- --search redis          # search before installing
 curl -fsSL .../install.sh | sh -s -- --list                  # categories and volumes
 
 # Windows (PowerShell)
-iex "& { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
+iex "& { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
 ```
 
-> 📖 **Online catalogue & manuals**: [khalilbenaz.github.io/claude-skills-collection/manuals](https://khalilbenaz.github.io/claude-skills-collection/manuals/) — one manual per skill, instant search, one-command install.
+> 📖 **Online catalogue & manuals**: [vantaflow.github.io/claude-skills-collection/manuals](https://vantaflow.github.io/claude-skills-collection/manuals/) — one manual per skill, instant search, one-command install.
 > 🤖 **Machine-readable index**: [`skills.json`](./skills.json) (name, category, summary, triggers, paths) for your own tooling.
 
 ---
@@ -127,8 +127,8 @@ fails if a committed artefact is stale.
 ## 🤝 Contributing
 
 - **Full guide**: [CONTRIBUTING](./docs/CONTRIBUTING.md) (French).
-- **A skill fires wrongly or says something false**: [open an issue](https://github.com/khalilbenaz/claude-skills-collection/issues/new/choose). The exact prompt you typed is the single most useful piece of information.
-- **Proposing a skill**: check [the catalogue](https://khalilbenaz.github.io/claude-skills-collection/manuals/) first — with 348 skills, yours may be an improvement to an existing one.
+- **A skill fires wrongly or says something false**: [open an issue](https://github.com/vantaflow/claude-skills-collection/issues/new/choose). The exact prompt you typed is the single most useful piece of information.
+- **Proposing a skill**: check [the catalogue](https://vantaflow.github.io/claude-skills-collection/manuals/) first — with 348 skills, yours may be an improvement to an existing one.
 - **Translating skills to English** is welcome. Keep the bilingual trigger convention (`Se déclenche avec "…"` + `Also triggers on "…"`).
 - **Security**: [SECURITY.md](./SECURITY.md). Report vulnerabilities as a private advisory, never as a public issue.
 

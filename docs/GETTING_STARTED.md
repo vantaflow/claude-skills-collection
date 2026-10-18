@@ -13,7 +13,7 @@ Un skill est un fichier d'instructions (`SKILL.md`) qui donne à Claude un workf
 ### Méthode 1 — Plugin Claude Code (toute la collection)
 
 ```bash
-/plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+/plugin marketplace add https://github.com/vantaflow/claude-skills-collection
 /plugin install claude-skills-collection
 ```
 
@@ -24,7 +24,7 @@ Les 348 skills deviennent des slash commands, **préfixées par leur catégorie*
 Plus léger : seuls les skills choisis sont copiés dans `~/.claude/skills`.
 
 ```bash
-BASE=https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main
+BASE=https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main
 
 # un skill, et on l'ouvre tout de suite
 curl -fsSL $BASE/install.sh | sh -s -- dev-code-reviewer --launch
@@ -40,12 +40,12 @@ curl -fsSL $BASE/install.sh | sh -s -- --search redis
 Windows (PowerShell) :
 
 ```powershell
-iex "& { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
+iex "& { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
 ```
 
 ### Méthode 3 — Claude.ai (hors Claude Code)
 
-1. Clonez le repo : `git clone https://github.com/khalilbenaz/claude-skills-collection.git`
+1. Clonez le repo : `git clone https://github.com/vantaflow/claude-skills-collection.git`
 2. Zippez le `SKILL.md` du skill voulu depuis le payload généré : `cd skills/dev-code-reviewer && zip ../../code-reviewer.skill SKILL.md`
 3. Dans Claude.ai : **Paramètres → Skills → Ajouter un skill**, puis sélectionnez le `.skill`
 
@@ -55,7 +55,7 @@ iex "& { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills
 
 ## Trouver le bon skill
 
-- **Catalogue en ligne** avec recherche instantanée : <https://khalilbenaz.github.io/claude-skills-collection/manuals/>
+- **Catalogue en ligne** avec recherche instantanée : <https://vantaflow.github.io/claude-skills-collection/manuals/>
 - **Catalogue Markdown** : [SKILL_CATALOG.md](./SKILL_CATALOG.md) — 348 skills, leurs déclencheurs, par catégorie
 - **Index machine-lisible** : [`skills.json`](../skills.json)
 - **En session** : décrivez simplement votre besoin — ou lancez `/agent-skill-router` pour vous faire orienter

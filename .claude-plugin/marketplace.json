@@ -4,7 +4,7 @@
   "description": "348 professional skills for Claude Code, published as 7 thematic bundles plus one all-in-one plugin.",
   "owner": {
     "name": "Khalil BENAZZOU",
-    "url": "https://github.com/khalilbenaz/claude-skills-collection"
+    "url": "https://github.com/vantaflow/claude-skills-collection"
   },
   "metadata": {
     "version": "1.1.0"
@@ -20,8 +20,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://github.com/khalilbenaz/claude-skills-collection",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://github.com/vantaflow/claude-skills-collection",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "skills",
@@ -43,8 +43,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#dev",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#dev",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "development",
@@ -187,8 +187,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#agents",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#agents",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "ai",
@@ -279,8 +279,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#cloud-ops",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#cloud-ops",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "cloud",
@@ -343,8 +343,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#data",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#data",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "data",
@@ -386,8 +386,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#security",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#security",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "security",
@@ -419,8 +419,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#business",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#business",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "business",
@@ -482,8 +482,8 @@
       "source": "./",
       "strict": false,
       "category": "productivity",
-      "homepage": "https://khalilbenaz.github.io/claude-skills-collection/#life",
-      "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+      "homepage": "https://vantaflow.github.io/claude-skills-collection/#life",
+      "repository": "https://github.com/vantaflow/claude-skills-collection",
       "license": "MIT",
       "keywords": [
         "health",

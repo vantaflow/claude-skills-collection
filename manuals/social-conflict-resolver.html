@@ -61,7 +61,7 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 </style>
 </head>
 <body>
-<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/khalilbenaz/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
+<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/vantaflow/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
 <main>
 <span class="badge">🤝 Relations</span>
 <h1 class="skill-title">social-conflict-resolver</h1>
@@ -73,24 +73,24 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 <h2>⚡ Installation &amp; lancement en 1 commande</h2>
 <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Copiez-collez dans votre terminal : le skill s'installe dans <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">~/.claude/skills</code> et Claude Code se lance directement dessus.</p>
 <div class="cmd-label">macOS / Linux</div>
-<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- social-conflict-resolver --launch</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- social-conflict-resolver --launch</div><button class="copy-btn">Copier</button></div>
 <div class="cmd-label" style="margin-top:.8rem">Windows (PowerShell)</div>
-<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } social-conflict-resolver -Launch&quot;</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } social-conflict-resolver -Launch&quot;</div><button class="copy-btn">Copier</button></div>
 </div>
 
 <div class="panel">
 <h2>🚀 Déjà installé ?</h2>
 <div class="cmd-block"><div class="invoke">claude &quot;/social-conflict-resolver&quot;</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/social-conflict-resolver</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/social-conflict-resolver</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
 </div>
 
 <div class="panel"><h2>🔑 Déclencheurs automatiques</h2><p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Le skill s'active automatiquement quand votre demande contient :</p><div class="triggers"><span class="trigger">conflit</span><span class="trigger">dispute</span><span class="trigger">on ne s'entend plus</span><span class="trigger">désaccord</span><span class="trigger">problème avec quelqu'un</span><span class="trigger">resolve a conflict</span><span class="trigger">we keep arguing</span><span class="trigger">interpersonal conflict</span></div></div>
 
 <div class="panel">
 <h2>📦 Installation manuelle</h2>
-<div class="cmd-block"><div class="invoke">git clone https://github.com/khalilbenaz/claude-skills-collection.git
+<div class="cmd-block"><div class="invoke">git clone https://github.com/vantaflow/claude-skills-collection.git
 cp -r claude-skills-collection/skills/social-conflict-resolver ~/.claude/skills/</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/skills/social-conflict-resolver" target="_blank">skills/social-conflict-resolver</a> · source éditable : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/social-skills/conflict-resolver" target="_blank">social-skills/conflict-resolver</a></p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/skills/social-conflict-resolver" target="_blank">skills/social-conflict-resolver</a> · source éditable : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/social-skills/conflict-resolver" target="_blank">social-skills/conflict-resolver</a></p>
 </div>
 
 <article class="manual">
@@ -178,7 +178,7 @@ que l'on puisse en discuter sereinement. Est-ce que tu as un moment ?&quot;</cod
 <table><thead><tr><th>Type</th><th>Caractéristique</th><th>Approche recommandée</th></tr></thead><tbody><tr><td>Conflit de rôles</td><td>Attentes floues, périmètres non définis</td><td>Clarifier les responsabilités par écrit</td></tr><tr><td>Conflit de valeurs</td><td>Visions du monde divergentes</td><td>Acceptation des différences, recherche de terrain commun</td></tr><tr><td>Conflit de ressources</td><td>Temps, argent, espace, attention partagés</td><td>Négociation transparente sur la répartition</td></tr><tr><td>Conflit de personnalité</td><td>Styles de communication incompatibles</td><td>Adapter son mode, recourir à un médiateur</td></tr><tr><td>Conflit historique</td><td>Rancœur accumulée</td><td>Travail en profondeur, souvent avec accompagnement</td></tr></tbody></table>
 </article>
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 document.querySelectorAll('.copy-btn').forEach(b=>b.addEventListener('click',()=>{
   navigator.clipboard.writeText(b.previousElementSibling.textContent).then(()=>{

@@ -130,7 +130,7 @@ AmountMillimes = NewType("AmountMillimes", int)
 
 Format recommandé :
 ```python
-# TODO(k.benazzouz, 2026-06): supprimer après migration schéma v4 — voir ADR-012
+# TODO(vantaflow, 2026-06): supprimer après migration schéma v4 — voir ADR-012
 # FIXME(team-payment): race condition possible si deux workers traitent le même idempotency_key simultanément
 ```
 

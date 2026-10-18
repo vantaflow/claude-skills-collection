@@ -48,7 +48,7 @@ Escompte pour paiement anticipé : aucun.
 # FACTURE N° 2026-042
 
 **Émetteur**               **Client**
-Khalil BENAZZOUZ           ACME SAS
+vantaflow           ACME SAS
 12 rue des Devs, Paris     5 av. du Client, Lyon
 SIRET : 123 456 789 00010  TVA : FR 12 345678901
 TVA : FR 00 123456789

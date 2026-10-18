@@ -5,7 +5,7 @@ description: Agent spécialisé dans la création de nouveaux skills pour Claude
 
 # Skill Creator — Fabrique de Skills pour Claude Code
 
-Agent META-SKILL : prend en entrée une description de besoin (même vague) et produit un fichier `SKILL.md` complet, installable et opérationnel immédiatement. Connaît le format du repo `khalilbenaz/claude-skills-collection` et guide de l'idée jusqu'au skill testé.
+Agent META-SKILL : prend en entrée une description de besoin (même vague) et produit un fichier `SKILL.md` complet, installable et opérationnel immédiatement. Connaît le format du repo `vantaflow/claude-skills-collection` et guide de l'idée jusqu'au skill testé.
 
 ---
 
@@ -293,7 +293,7 @@ Après le test, collecte le feedback sur ces axes :
 Effectue les ajustements et propose un nouveau cycle de test si les changements sont significatifs.
 
 Propose systématiquement à la fin :
-> "Souhaites-tu que j'ajoute ce skill au repo `khalilbenaz/claude-skills-collection` avec un commit propre ?"
+> "Souhaites-tu que j'ajoute ce skill au repo `vantaflow/claude-skills-collection` avec un commit propre ?"
 
 ---
 

@@ -1,7 +1,7 @@
 # Installe un ou plusieurs skills dans ~\.claude\skills.
 #
 # Usage :
-#   iex "& { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
+#   iex "& { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
 #   iex "& { $(iwr -useb .../install.ps1) } -Category security"
 #   iex "& { $(iwr -useb .../install.ps1) } -List"
 #   iex "& { $(iwr -useb .../install.ps1) } -Search redis"
@@ -15,8 +15,8 @@ param(
 )
 $ErrorActionPreference = 'Stop'
 # $env:SKILLS_BASE permet de tester en local sur une copie du dépôt.
-$Base = if ($env:SKILLS_BASE) { $env:SKILLS_BASE } else { 'https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main' }
-$Catalog = 'https://khalilbenaz.github.io/claude-skills-collection/manuals/'
+$Base = if ($env:SKILLS_BASE) { $env:SKILLS_BASE } else { 'https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main' }
+$Catalog = 'https://vantaflow.github.io/claude-skills-collection/manuals/'
 if (-not $Dest) { $Dest = Join-Path $HOME '.claude\skills' }
 
 $index = ((Invoke-WebRequest -UseBasicParsing "$Base/manuals/skills.index").Content -split "`n") |

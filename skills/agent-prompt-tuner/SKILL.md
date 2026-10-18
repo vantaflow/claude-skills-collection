@@ -169,7 +169,7 @@ Maintenir un `PROMPT_CHANGELOG.md` minimal :
 
 ```
 ## 2026-06-24 — v2.1
-Auteur : k.benazzouz
+Auteur : vantaflow
 Change : ajout guardrail UNCERTAIN + exemple edge case solde nul
 Métriques : accuracy 81% → 85.2%, hallucination 6% → 1.8%
 ```

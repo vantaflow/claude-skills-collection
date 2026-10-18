@@ -61,7 +61,7 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 </style>
 </head>
 <body>
-<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/khalilbenaz/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
+<nav><a class="nav-brand" href="../index.html">Claude <span>Skills</span></a><ul class="nav-links"><li><a href="./index.html">Manuels</a></li><li><a href="./usecases.html">Cas d'usage</a></li><li><a href="../index.html">Accueil</a></li><li><a href="https://github.com/vantaflow/claude-skills-collection" target="_blank">GitHub</a></li></ul></nav>
 <main>
 <span class="badge">🧘 Bien-être</span>
 <h1 class="skill-title">psy-med-side-effect-mood-log</h1>
@@ -73,24 +73,24 @@ footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:v
 <h2>⚡ Installation &amp; lancement en 1 commande</h2>
 <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Copiez-collez dans votre terminal : le skill s'installe dans <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">~/.claude/skills</code> et Claude Code se lance directement dessus.</p>
 <div class="cmd-label">macOS / Linux</div>
-<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- psy-med-side-effect-mood-log --launch</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- psy-med-side-effect-mood-log --launch</div><button class="copy-btn">Copier</button></div>
 <div class="cmd-label" style="margin-top:.8rem">Windows (PowerShell)</div>
-<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } psy-med-side-effect-mood-log -Launch&quot;</div><button class="copy-btn">Copier</button></div>
+<div class="cmd-block"><div class="invoke">iex &quot;&amp; { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } psy-med-side-effect-mood-log -Launch&quot;</div><button class="copy-btn">Copier</button></div>
 </div>
 
 <div class="panel">
 <h2>🚀 Déjà installé ?</h2>
 <div class="cmd-block"><div class="invoke">claude &quot;/psy-med-side-effect-mood-log&quot;</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/psy-med-side-effect-mood-log</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Ou tapez <code style="font-family:'JetBrains Mono',monospace;font-size:.82em">/psy-med-side-effect-mood-log</code> dans une session Claude Code, ou décrivez simplement votre besoin — le skill se déclenche automatiquement via le <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/agent-skills/skill-router">skill-router</a>.</p>
 </div>
 
 <div class="panel"><h2>🔑 Déclencheurs automatiques</h2><p style="color:var(--text-muted);font-size:.9rem;margin-bottom:.8rem">Le skill s'active automatiquement quand votre demande contient :</p><div class="triggers"><span class="trigger">depuis que je prends…</span><span class="trigger">effets secondaires antidépresseur</span><span class="trigger">mon traitement me fait…</span><span class="trigger">je dors mal depuis le médicament</span><span class="trigger">psychiatric medication log</span><span class="trigger">mood and side effects</span><span class="trigger">treatment follow-up log</span></div></div>
 
 <div class="panel">
 <h2>📦 Installation manuelle</h2>
-<div class="cmd-block"><div class="invoke">git clone https://github.com/khalilbenaz/claude-skills-collection.git
+<div class="cmd-block"><div class="invoke">git clone https://github.com/vantaflow/claude-skills-collection.git
 cp -r claude-skills-collection/skills/psy-med-side-effect-mood-log ~/.claude/skills/</div><button class="copy-btn">Copier</button></div>
-<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/skills/psy-med-side-effect-mood-log" target="_blank">skills/psy-med-side-effect-mood-log</a> · source éditable : <a href="https://github.com/khalilbenaz/claude-skills-collection/tree/main/psy-skills/med-side-effect-mood-log" target="_blank">psy-skills/med-side-effect-mood-log</a></p>
+<p style="margin-top:.8rem;color:var(--text-muted);font-size:.9rem">Payload du plugin : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/skills/psy-med-side-effect-mood-log" target="_blank">skills/psy-med-side-effect-mood-log</a> · source éditable : <a href="https://github.com/vantaflow/claude-skills-collection/tree/main/psy-skills/med-side-effect-mood-log" target="_blank">psy-skills/med-side-effect-mood-log</a></p>
 </div>
 
 <article class="manual">
@@ -192,7 +192,7 @@ Questions à poser : …</code></pre>
 <blockquote><strong>Ce journal est un outil d'observation personnelle, pas un outil médical.</strong><br>Ne modifiez jamais votre traitement (dose, fréquence, arrêt) sans l'accord de votre médecin ou psychiatre.<br>En cas de doute urgent : appelez votre médecin, le 15 (SAMU), ou le 3114 (numéro national de prévention du suicide, disponible 24h/24).</blockquote>
 </article>
 </main>
-<footer>Fait par <a href="https://github.com/khalilbenaz" target="_blank">@khalilbenaz</a> — MIT License</footer>
+<footer>Fait par <a href="https://github.com/vantaflow" target="_blank">@vantaflow</a> — MIT License</footer>
 <script>
 document.querySelectorAll('.copy-btn').forEach(b=>b.addEventListener('click',()=>{
   navigator.clipboard.writeText(b.previousElementSibling.textContent).then(()=>{

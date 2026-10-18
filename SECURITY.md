@@ -15,7 +15,7 @@ Deux exceptions à connaître :
 
 ## Signaler une vulnérabilité
 
-Ouvrez un [advisory privé](https://github.com/khalilbenaz/claude-skills-collection/security/advisories/new).
+Ouvrez un [advisory privé](https://github.com/vantaflow/claude-skills-collection/security/advisories/new).
 N'ouvrez pas d'issue publique pour :
 
 - une commande destructive ou exfiltrante dans un skill ;

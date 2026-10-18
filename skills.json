@@ -1,5 +1,5 @@
 {
-  "repository": "https://github.com/khalilbenaz/claude-skills-collection",
+  "repository": "https://github.com/vantaflow/claude-skills-collection",
   "total": 348,
   "categories": [
     {
@@ -261,7 +261,7 @@
       ],
       "source": "agent-skills/a2a-protocol-guide/SKILL.md",
       "payload": "skills/agent-a2a-protocol-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-a2a-protocol-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-a2a-protocol-guide.html"
     },
     {
       "name": "agent-agent-observability",
@@ -284,7 +284,7 @@
       ],
       "source": "agent-skills/agent-observability/SKILL.md",
       "payload": "skills/agent-agent-observability/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-agent-observability.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-agent-observability.html"
     },
     {
       "name": "agent-api-caller-subagent",
@@ -307,7 +307,7 @@
       ],
       "source": "agent-skills/api-caller-subagent/SKILL.md",
       "payload": "skills/agent-api-caller-subagent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-api-caller-subagent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-api-caller-subagent.html"
     },
     {
       "name": "agent-autogen-guide",
@@ -332,7 +332,7 @@
       ],
       "source": "agent-skills/autogen-guide/SKILL.md",
       "payload": "skills/agent-autogen-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-autogen-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-autogen-guide.html"
     },
     {
       "name": "agent-browser-agent-builder",
@@ -350,7 +350,7 @@
       ],
       "source": "agent-skills/browser-agent-builder/SKILL.md",
       "payload": "skills/agent-browser-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-browser-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-browser-agent-builder.html"
     },
     {
       "name": "agent-claude-code-extension-builder",
@@ -371,7 +371,7 @@
       ],
       "source": "agent-skills/claude-code-extension-builder/SKILL.md",
       "payload": "skills/agent-claude-code-extension-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-claude-code-extension-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-claude-code-extension-builder.html"
     },
     {
       "name": "agent-code-review-subagent",
@@ -394,7 +394,7 @@
       ],
       "source": "agent-skills/code-review-subagent/SKILL.md",
       "payload": "skills/agent-code-review-subagent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-code-review-subagent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-code-review-subagent.html"
     },
     {
       "name": "agent-coding-agent-builder",
@@ -419,7 +419,7 @@
       ],
       "source": "agent-skills/coding-agent-builder/SKILL.md",
       "payload": "skills/agent-coding-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-coding-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-coding-agent-builder.html"
     },
     {
       "name": "agent-conflict-resolver",
@@ -442,7 +442,7 @@
       ],
       "source": "agent-skills/conflict-resolver/SKILL.md",
       "payload": "skills/agent-conflict-resolver/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-conflict-resolver.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-conflict-resolver.html"
     },
     {
       "name": "agent-consensus-builder",
@@ -465,7 +465,7 @@
       ],
       "source": "agent-skills/consensus-builder/SKILL.md",
       "payload": "skills/agent-consensus-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-consensus-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-consensus-builder.html"
     },
     {
       "name": "agent-context-manager",
@@ -489,7 +489,7 @@
       ],
       "source": "agent-skills/context-manager/SKILL.md",
       "payload": "skills/agent-context-manager/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-context-manager.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-context-manager.html"
     },
     {
       "name": "agent-cost-optimizer",
@@ -513,7 +513,7 @@
       ],
       "source": "agent-skills/cost-optimizer/SKILL.md",
       "payload": "skills/agent-cost-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-cost-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-cost-optimizer.html"
     },
     {
       "name": "agent-crewai-expert",
@@ -538,7 +538,7 @@
       ],
       "source": "agent-skills/crewai-expert/SKILL.md",
       "payload": "skills/agent-crewai-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-crewai-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-crewai-expert.html"
     },
     {
       "name": "agent-customer-support-agent",
@@ -560,7 +560,7 @@
       ],
       "source": "agent-skills/customer-support-agent/SKILL.md",
       "payload": "skills/agent-customer-support-agent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-customer-support-agent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-customer-support-agent.html"
     },
     {
       "name": "agent-data-analyst-agent",
@@ -583,7 +583,7 @@
       ],
       "source": "agent-skills/data-analyst-agent/SKILL.md",
       "payload": "skills/agent-data-analyst-agent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-data-analyst-agent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-data-analyst-agent.html"
     },
     {
       "name": "agent-database-query-subagent",
@@ -606,7 +606,7 @@
       ],
       "source": "agent-skills/database-query-subagent/SKILL.md",
       "payload": "skills/agent-database-query-subagent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-database-query-subagent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-database-query-subagent.html"
     },
     {
       "name": "agent-deployment-guide",
@@ -630,7 +630,7 @@
       ],
       "source": "agent-skills/deployment-guide/SKILL.md",
       "payload": "skills/agent-deployment-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-deployment-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-deployment-guide.html"
     },
     {
       "name": "agent-email-agent-builder",
@@ -648,7 +648,7 @@
       ],
       "source": "agent-skills/email-agent-builder/SKILL.md",
       "payload": "skills/agent-email-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-email-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-email-agent-builder.html"
     },
     {
       "name": "agent-evaluation-framework",
@@ -673,7 +673,7 @@
       ],
       "source": "agent-skills/evaluation-framework/SKILL.md",
       "payload": "skills/agent-evaluation-framework/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-evaluation-framework.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-evaluation-framework.html"
     },
     {
       "name": "agent-file-processor-subagent",
@@ -695,7 +695,7 @@
       ],
       "source": "agent-skills/file-processor-subagent/SKILL.md",
       "payload": "skills/agent-file-processor-subagent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-file-processor-subagent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-file-processor-subagent.html"
     },
     {
       "name": "agent-handoff-designer",
@@ -718,7 +718,7 @@
       ],
       "source": "agent-skills/handoff-designer/SKILL.md",
       "payload": "skills/agent-handoff-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-handoff-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-handoff-designer.html"
     },
     {
       "name": "agent-hierarchy-designer",
@@ -741,7 +741,7 @@
       ],
       "source": "agent-skills/hierarchy-designer/SKILL.md",
       "payload": "skills/agent-hierarchy-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-hierarchy-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-hierarchy-designer.html"
     },
     {
       "name": "agent-human-in-the-loop-designer",
@@ -764,7 +764,7 @@
       ],
       "source": "agent-skills/human-in-the-loop-designer/SKILL.md",
       "payload": "skills/agent-human-in-the-loop-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-human-in-the-loop-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-human-in-the-loop-designer.html"
     },
     {
       "name": "agent-langgraph-designer",
@@ -789,7 +789,7 @@
       ],
       "source": "agent-skills/langgraph-designer/SKILL.md",
       "payload": "skills/agent-langgraph-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-langgraph-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-langgraph-designer.html"
     },
     {
       "name": "agent-load-balancer",
@@ -811,7 +811,7 @@
       ],
       "source": "agent-skills/load-balancer/SKILL.md",
       "payload": "skills/agent-load-balancer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-load-balancer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-load-balancer.html"
     },
     {
       "name": "agent-marketplace-creator",
@@ -835,7 +835,7 @@
       ],
       "source": "agent-skills/marketplace-creator/SKILL.md",
       "payload": "skills/agent-marketplace-creator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-marketplace-creator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-marketplace-creator.html"
     },
     {
       "name": "agent-mcp-server-builder",
@@ -860,7 +860,7 @@
       ],
       "source": "agent-skills/mcp-server-builder/SKILL.md",
       "payload": "skills/agent-mcp-server-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-mcp-server-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-mcp-server-builder.html"
     },
     {
       "name": "agent-memory-designer",
@@ -883,7 +883,7 @@
       ],
       "source": "agent-skills/memory-designer/SKILL.md",
       "payload": "skills/agent-memory-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-memory-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-memory-designer.html"
     },
     {
       "name": "agent-message-protocol",
@@ -906,7 +906,7 @@
       ],
       "source": "agent-skills/message-protocol/SKILL.md",
       "payload": "skills/agent-message-protocol/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-message-protocol.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-message-protocol.html"
     },
     {
       "name": "agent-monitoring-setup",
@@ -929,7 +929,7 @@
       ],
       "source": "agent-skills/monitoring-setup/SKILL.md",
       "payload": "skills/agent-monitoring-setup/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-monitoring-setup.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-monitoring-setup.html"
     },
     {
       "name": "agent-multi-agent-orchestrator",
@@ -953,7 +953,7 @@
       ],
       "source": "agent-skills/multi-agent-orchestrator/SKILL.md",
       "payload": "skills/agent-multi-agent-orchestrator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-multi-agent-orchestrator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-multi-agent-orchestrator.html"
     },
     {
       "name": "agent-openai-assistants-builder",
@@ -979,7 +979,7 @@
       ],
       "source": "agent-skills/openai-assistants-builder/SKILL.md",
       "payload": "skills/agent-openai-assistants-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-openai-assistants-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-openai-assistants-builder.html"
     },
     {
       "name": "agent-pipeline-composer",
@@ -1003,7 +1003,7 @@
       ],
       "source": "agent-skills/pipeline-composer/SKILL.md",
       "payload": "skills/agent-pipeline-composer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-pipeline-composer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-pipeline-composer.html"
     },
     {
       "name": "agent-pool-manager",
@@ -1025,7 +1025,7 @@
       ],
       "source": "agent-skills/pool-manager/SKILL.md",
       "payload": "skills/agent-pool-manager/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-pool-manager.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-pool-manager.html"
     },
     {
       "name": "agent-prompt-tuner",
@@ -1049,7 +1049,7 @@
       ],
       "source": "agent-skills/prompt-tuner/SKILL.md",
       "payload": "skills/agent-prompt-tuner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-prompt-tuner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-prompt-tuner.html"
     },
     {
       "name": "agent-research-agent-designer",
@@ -1071,7 +1071,7 @@
       ],
       "source": "agent-skills/research-agent-designer/SKILL.md",
       "payload": "skills/agent-research-agent-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-research-agent-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-research-agent-designer.html"
     },
     {
       "name": "agent-result-aggregator",
@@ -1094,7 +1094,7 @@
       ],
       "source": "agent-skills/result-aggregator/SKILL.md",
       "payload": "skills/agent-result-aggregator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-result-aggregator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-result-aggregator.html"
     },
     {
       "name": "agent-retry-strategist",
@@ -1117,7 +1117,7 @@
       ],
       "source": "agent-skills/retry-strategist/SKILL.md",
       "payload": "skills/agent-retry-strategist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-retry-strategist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-retry-strategist.html"
     },
     {
       "name": "agent-sales-agent-builder",
@@ -1139,7 +1139,7 @@
       ],
       "source": "agent-skills/sales-agent-builder/SKILL.md",
       "payload": "skills/agent-sales-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-sales-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-sales-agent-builder.html"
     },
     {
       "name": "agent-security-hardener",
@@ -1164,7 +1164,7 @@
       ],
       "source": "agent-skills/security-hardener/SKILL.md",
       "payload": "skills/agent-security-hardener/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-security-hardener.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-security-hardener.html"
     },
     {
       "name": "agent-semantic-kernel-guide",
@@ -1189,7 +1189,7 @@
       ],
       "source": "agent-skills/semantic-kernel-guide/SKILL.md",
       "payload": "skills/agent-semantic-kernel-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-semantic-kernel-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-semantic-kernel-guide.html"
     },
     {
       "name": "agent-skill-creator",
@@ -1215,7 +1215,7 @@
       ],
       "source": "agent-skills/skill-creator/SKILL.md",
       "payload": "skills/agent-skill-creator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-skill-creator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-skill-creator.html"
     },
     {
       "name": "agent-skill-router",
@@ -1238,7 +1238,7 @@
       ],
       "source": "agent-skills/skill-router/SKILL.md",
       "payload": "skills/agent-skill-router/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-skill-router.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-skill-router.html"
     },
     {
       "name": "agent-spawner",
@@ -1261,7 +1261,7 @@
       ],
       "source": "agent-skills/spawner/SKILL.md",
       "payload": "skills/agent-spawner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-spawner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-spawner.html"
     },
     {
       "name": "agent-state-synchronizer",
@@ -1284,7 +1284,7 @@
       ],
       "source": "agent-skills/state-synchronizer/SKILL.md",
       "payload": "skills/agent-state-synchronizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-state-synchronizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-state-synchronizer.html"
     },
     {
       "name": "agent-subagent-delegator",
@@ -1308,7 +1308,7 @@
       ],
       "source": "agent-skills/subagent-delegator/SKILL.md",
       "payload": "skills/agent-subagent-delegator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-subagent-delegator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-subagent-delegator.html"
     },
     {
       "name": "agent-supervisor-builder",
@@ -1330,7 +1330,7 @@
       ],
       "source": "agent-skills/supervisor-builder/SKILL.md",
       "payload": "skills/agent-supervisor-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-supervisor-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-supervisor-builder.html"
     },
     {
       "name": "agent-task-decomposer",
@@ -1352,7 +1352,7 @@
       ],
       "source": "agent-skills/task-decomposer/SKILL.md",
       "payload": "skills/agent-task-decomposer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-task-decomposer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-task-decomposer.html"
     },
     {
       "name": "agent-testing-framework",
@@ -1375,7 +1375,7 @@
       ],
       "source": "agent-skills/testing-framework/SKILL.md",
       "payload": "skills/agent-testing-framework/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-testing-framework.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-testing-framework.html"
     },
     {
       "name": "agent-tool-calling-architect",
@@ -1399,7 +1399,7 @@
       ],
       "source": "agent-skills/tool-calling-architect/SKILL.md",
       "payload": "skills/agent-tool-calling-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-tool-calling-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-tool-calling-architect.html"
     },
     {
       "name": "agent-voice-agent-builder",
@@ -1425,7 +1425,7 @@
       ],
       "source": "agent-skills/voice-agent-builder/SKILL.md",
       "payload": "skills/agent-voice-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-voice-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-voice-agent-builder.html"
     },
     {
       "name": "agent-web-scraper-subagent",
@@ -1448,7 +1448,7 @@
       ],
       "source": "agent-skills/web-scraper-subagent/SKILL.md",
       "payload": "skills/agent-web-scraper-subagent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-web-scraper-subagent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-web-scraper-subagent.html"
     },
     {
       "name": "agent-workflow-automation-agent",
@@ -1466,7 +1466,7 @@
       ],
       "source": "agent-skills/workflow-automation-agent/SKILL.md",
       "payload": "skills/agent-workflow-automation-agent/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/agent-workflow-automation-agent.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/agent-workflow-automation-agent.html"
     },
     {
       "name": "ai-ml-anomaly-detection-builder",
@@ -1486,7 +1486,7 @@
       ],
       "source": "ai-ml-skills/anomaly-detection-builder/SKILL.md",
       "payload": "skills/ai-ml-anomaly-detection-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-anomaly-detection-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-anomaly-detection-builder.html"
     },
     {
       "name": "ai-ml-computer-vision-guide",
@@ -1507,7 +1507,7 @@
       ],
       "source": "ai-ml-skills/computer-vision-guide/SKILL.md",
       "payload": "skills/ai-ml-computer-vision-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-computer-vision-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-computer-vision-guide.html"
     },
     {
       "name": "ai-ml-dataset-builder",
@@ -1527,7 +1527,7 @@
       ],
       "source": "ai-ml-skills/dataset-builder/SKILL.md",
       "payload": "skills/ai-ml-dataset-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-dataset-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-dataset-builder.html"
     },
     {
       "name": "ai-ml-ml-experiment-tracker",
@@ -1550,7 +1550,7 @@
       ],
       "source": "ai-ml-skills/ml-experiment-tracker/SKILL.md",
       "payload": "skills/ai-ml-ml-experiment-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-ml-experiment-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-ml-experiment-tracker.html"
     },
     {
       "name": "ai-ml-model-fine-tuner",
@@ -1573,7 +1573,7 @@
       ],
       "source": "ai-ml-skills/model-fine-tuner/SKILL.md",
       "payload": "skills/ai-ml-model-fine-tuner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-model-fine-tuner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-model-fine-tuner.html"
     },
     {
       "name": "ai-ml-model-optimization-guide",
@@ -1601,7 +1601,7 @@
       ],
       "source": "ai-ml-skills/model-optimization-guide/SKILL.md",
       "payload": "skills/ai-ml-model-optimization-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-model-optimization-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-model-optimization-guide.html"
     },
     {
       "name": "ai-ml-nlp-pipeline-designer",
@@ -1631,7 +1631,7 @@
       ],
       "source": "ai-ml-skills/nlp-pipeline-designer/SKILL.md",
       "payload": "skills/ai-ml-nlp-pipeline-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ai-ml-nlp-pipeline-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ai-ml-nlp-pipeline-designer.html"
     },
     {
       "name": "api-gateway-kong-api-gateway",
@@ -1653,7 +1653,7 @@
       ],
       "source": "api-gateway-skills/kong-api-gateway/SKILL.md",
       "payload": "skills/api-gateway-kong-api-gateway/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/api-gateway-kong-api-gateway.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/api-gateway-kong-api-gateway.html"
     },
     {
       "name": "api-gateway-ocelot-gateway-guide",
@@ -1674,7 +1674,7 @@
       ],
       "source": "api-gateway-skills/ocelot-gateway-guide/SKILL.md",
       "payload": "skills/api-gateway-ocelot-gateway-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/api-gateway-ocelot-gateway-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/api-gateway-ocelot-gateway-guide.html"
     },
     {
       "name": "api-gateway-yarp-gateway-designer",
@@ -1696,7 +1696,7 @@
       ],
       "source": "api-gateway-skills/yarp-gateway-designer/SKILL.md",
       "payload": "skills/api-gateway-yarp-gateway-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/api-gateway-yarp-gateway-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/api-gateway-yarp-gateway-designer.html"
     },
     {
       "name": "arabic-arabic-content-writer",
@@ -1717,7 +1717,7 @@
       ],
       "source": "arabic-skills/arabic-content-writer/SKILL.md",
       "payload": "skills/arabic-arabic-content-writer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/arabic-arabic-content-writer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/arabic-arabic-content-writer.html"
     },
     {
       "name": "arabic-darija-translator",
@@ -1738,7 +1738,7 @@
       ],
       "source": "arabic-skills/darija-translator/SKILL.md",
       "payload": "skills/arabic-darija-translator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/arabic-darija-translator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/arabic-darija-translator.html"
     },
     {
       "name": "arabic-morocco-admin-guide",
@@ -1760,7 +1760,7 @@
       ],
       "source": "arabic-skills/morocco-admin-guide/SKILL.md",
       "payload": "skills/arabic-morocco-admin-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/arabic-morocco-admin-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/arabic-morocco-admin-guide.html"
     },
     {
       "name": "automation-make-scenario-builder",
@@ -1780,7 +1780,7 @@
       ],
       "source": "automation-skills/make-scenario-builder/SKILL.md",
       "payload": "skills/automation-make-scenario-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/automation-make-scenario-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/automation-make-scenario-builder.html"
     },
     {
       "name": "automation-n8n-workflow-designer",
@@ -1800,7 +1800,7 @@
       ],
       "source": "automation-skills/n8n-workflow-designer/SKILL.md",
       "payload": "skills/automation-n8n-workflow-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/automation-n8n-workflow-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/automation-n8n-workflow-designer.html"
     },
     {
       "name": "automation-power-automate-designer",
@@ -1819,7 +1819,7 @@
       ],
       "source": "automation-skills/power-automate-designer/SKILL.md",
       "payload": "skills/automation-power-automate-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/automation-power-automate-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/automation-power-automate-designer.html"
     },
     {
       "name": "automation-script-automation-expert",
@@ -1841,7 +1841,7 @@
       ],
       "source": "automation-skills/script-automation-expert/SKILL.md",
       "payload": "skills/automation-script-automation-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/automation-script-automation-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/automation-script-automation-expert.html"
     },
     {
       "name": "automation-zapier-workflow-builder",
@@ -1862,7 +1862,7 @@
       ],
       "source": "automation-skills/zapier-workflow-builder/SKILL.md",
       "payload": "skills/automation-zapier-workflow-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/automation-zapier-workflow-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/automation-zapier-workflow-builder.html"
     },
     {
       "name": "business-commercial-proposal-generic",
@@ -1886,7 +1886,7 @@
       ],
       "source": "business-skills/commercial-proposal-generic/SKILL.md",
       "payload": "skills/business-commercial-proposal-generic/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/business-commercial-proposal-generic.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/business-commercial-proposal-generic.html"
     },
     {
       "name": "business-it-commercial-proposal",
@@ -1910,7 +1910,7 @@
       ],
       "source": "business-skills/it-commercial-proposal/SKILL.md",
       "payload": "skills/business-it-commercial-proposal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/business-it-commercial-proposal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/business-it-commercial-proposal.html"
     },
     {
       "name": "career-cv-builder",
@@ -1931,7 +1931,7 @@
       ],
       "source": "career-skills/cv-builder/SKILL.md",
       "payload": "skills/career-cv-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/career-cv-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/career-cv-builder.html"
     },
     {
       "name": "career-interview-prep",
@@ -1952,7 +1952,7 @@
       ],
       "source": "career-skills/interview-prep/SKILL.md",
       "payload": "skills/career-interview-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/career-interview-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/career-interview-prep.html"
     },
     {
       "name": "career-linkedin-optimizer",
@@ -1974,7 +1974,7 @@
       ],
       "source": "career-skills/linkedin-optimizer/SKILL.md",
       "payload": "skills/career-linkedin-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/career-linkedin-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/career-linkedin-optimizer.html"
     },
     {
       "name": "career-salary-negotiation",
@@ -1995,7 +1995,7 @@
       ],
       "source": "career-skills/salary-negotiation/SKILL.md",
       "payload": "skills/career-salary-negotiation/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/career-salary-negotiation.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/career-salary-negotiation.html"
     },
     {
       "name": "career-transition-planner",
@@ -2017,7 +2017,7 @@
       ],
       "source": "career-skills/transition-planner/SKILL.md",
       "payload": "skills/career-transition-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/career-transition-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/career-transition-planner.html"
     },
     {
       "name": "cloud-aws-architect",
@@ -2037,7 +2037,7 @@
       ],
       "source": "cloud-skills/aws-architect/SKILL.md",
       "payload": "skills/cloud-aws-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-aws-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-aws-architect.html"
     },
     {
       "name": "cloud-azure-functions-expert",
@@ -2055,7 +2055,7 @@
       ],
       "source": "cloud-skills/azure-functions-expert/SKILL.md",
       "payload": "skills/cloud-azure-functions-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-azure-functions-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-azure-functions-expert.html"
     },
     {
       "name": "cloud-cloud-migration-planner",
@@ -2074,7 +2074,7 @@
       ],
       "source": "cloud-skills/cloud-migration-planner/SKILL.md",
       "payload": "skills/cloud-cloud-migration-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-cloud-migration-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-cloud-migration-planner.html"
     },
     {
       "name": "cloud-cloud-security-guide",
@@ -2093,7 +2093,7 @@
       ],
       "source": "cloud-skills/cloud-security-guide/SKILL.md",
       "payload": "skills/cloud-cloud-security-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-cloud-security-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-cloud-security-guide.html"
     },
     {
       "name": "cloud-gcp-guide",
@@ -2112,7 +2112,7 @@
       ],
       "source": "cloud-skills/gcp-guide/SKILL.md",
       "payload": "skills/cloud-gcp-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-gcp-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-gcp-guide.html"
     },
     {
       "name": "cloud-multi-cloud-strategist",
@@ -2130,7 +2130,7 @@
       ],
       "source": "cloud-skills/multi-cloud-strategist/SKILL.md",
       "payload": "skills/cloud-multi-cloud-strategist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-multi-cloud-strategist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-multi-cloud-strategist.html"
     },
     {
       "name": "cloud-serverless-designer",
@@ -2150,7 +2150,7 @@
       ],
       "source": "cloud-skills/serverless-designer/SKILL.md",
       "payload": "skills/cloud-serverless-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/cloud-serverless-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/cloud-serverless-designer.html"
     },
     {
       "name": "communication-pitch-deck-designer",
@@ -2170,7 +2170,7 @@
       ],
       "source": "communication-skills/pitch-deck-designer/SKILL.md",
       "payload": "skills/communication-pitch-deck-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/communication-pitch-deck-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/communication-pitch-deck-designer.html"
     },
     {
       "name": "communication-presentation-builder",
@@ -2192,7 +2192,7 @@
       ],
       "source": "communication-skills/presentation-builder/SKILL.md",
       "payload": "skills/communication-presentation-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/communication-presentation-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/communication-presentation-builder.html"
     },
     {
       "name": "communication-public-speaking-coach",
@@ -2213,7 +2213,7 @@
       ],
       "source": "communication-skills/public-speaking-coach/SKILL.md",
       "payload": "skills/communication-public-speaking-coach/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/communication-public-speaking-coach.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/communication-public-speaking-coach.html"
     },
     {
       "name": "communication-storytelling-expert",
@@ -2233,7 +2233,7 @@
       ],
       "source": "communication-skills/storytelling-expert/SKILL.md",
       "payload": "skills/communication-storytelling-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/communication-storytelling-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/communication-storytelling-expert.html"
     },
     {
       "name": "data-data-governance-guide",
@@ -2251,7 +2251,7 @@
       ],
       "source": "data-skills/data-governance-guide/SKILL.md",
       "payload": "skills/data-data-governance-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-data-governance-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-data-governance-guide.html"
     },
     {
       "name": "data-dbt-guide",
@@ -2272,7 +2272,7 @@
       ],
       "source": "data-skills/dbt-guide/SKILL.md",
       "payload": "skills/data-dbt-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-dbt-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-dbt-guide.html"
     },
     {
       "name": "data-dimensional-modeling",
@@ -2295,7 +2295,7 @@
       ],
       "source": "data-skills/dimensional-modeling/SKILL.md",
       "payload": "skills/data-dimensional-modeling/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-dimensional-modeling.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-dimensional-modeling.html"
     },
     {
       "name": "data-kafka-patterns",
@@ -2316,7 +2316,7 @@
       ],
       "source": "data-skills/kafka-patterns/SKILL.md",
       "payload": "skills/data-kafka-patterns/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-kafka-patterns.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-kafka-patterns.html"
     },
     {
       "name": "data-power-bi-designer",
@@ -2336,7 +2336,7 @@
       ],
       "source": "data-skills/power-bi-designer/SKILL.md",
       "payload": "skills/data-power-bi-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-power-bi-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-power-bi-designer.html"
     },
     {
       "name": "data-quality-checker",
@@ -2359,7 +2359,7 @@
       ],
       "source": "data-skills/quality-checker/SKILL.md",
       "payload": "skills/data-quality-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-quality-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-quality-checker.html"
     },
     {
       "name": "data-sql-advanced-analytics",
@@ -2383,7 +2383,7 @@
       ],
       "source": "data-skills/sql-advanced-analytics/SKILL.md",
       "payload": "skills/data-sql-advanced-analytics/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-sql-advanced-analytics.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-sql-advanced-analytics.html"
     },
     {
       "name": "data-tableau-designer",
@@ -2401,7 +2401,7 @@
       ],
       "source": "data-skills/tableau-designer/SKILL.md",
       "payload": "skills/data-tableau-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/data-tableau-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/data-tableau-designer.html"
     },
     {
       "name": "database-cassandra-guide",
@@ -2419,7 +2419,7 @@
       ],
       "source": "database-skills/cassandra-guide/SKILL.md",
       "payload": "skills/database-cassandra-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-cassandra-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-cassandra-guide.html"
     },
     {
       "name": "database-database-design-advisor",
@@ -2438,7 +2438,7 @@
       ],
       "source": "database-skills/database-design-advisor/SKILL.md",
       "payload": "skills/database-database-design-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-database-design-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-database-design-advisor.html"
     },
     {
       "name": "database-dynamodb-guide",
@@ -2456,7 +2456,7 @@
       ],
       "source": "database-skills/dynamodb-guide/SKILL.md",
       "payload": "skills/database-dynamodb-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-dynamodb-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-dynamodb-guide.html"
     },
     {
       "name": "database-elasticsearch-guide",
@@ -2475,7 +2475,7 @@
       ],
       "source": "database-skills/elasticsearch-guide/SKILL.md",
       "payload": "skills/database-elasticsearch-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-elasticsearch-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-elasticsearch-guide.html"
     },
     {
       "name": "database-mongodb-guide",
@@ -2494,7 +2494,7 @@
       ],
       "source": "database-skills/mongodb-guide/SKILL.md",
       "payload": "skills/database-mongodb-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-mongodb-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-mongodb-guide.html"
     },
     {
       "name": "database-mysql-tuner",
@@ -2513,7 +2513,7 @@
       ],
       "source": "database-skills/mysql-tuner/SKILL.md",
       "payload": "skills/database-mysql-tuner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-mysql-tuner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-mysql-tuner.html"
     },
     {
       "name": "database-postgres-expert",
@@ -2533,7 +2533,7 @@
       ],
       "source": "database-skills/postgres-expert/SKILL.md",
       "payload": "skills/database-postgres-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-postgres-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-postgres-expert.html"
     },
     {
       "name": "database-redis-patterns",
@@ -2551,7 +2551,7 @@
       ],
       "source": "database-skills/redis-patterns/SKILL.md",
       "payload": "skills/database-redis-patterns/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-redis-patterns.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-redis-patterns.html"
     },
     {
       "name": "database-sql-server-tuner",
@@ -2570,7 +2570,7 @@
       ],
       "source": "database-skills/sql-server-tuner/SKILL.md",
       "payload": "skills/database-sql-server-tuner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/database-sql-server-tuner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/database-sql-server-tuner.html"
     },
     {
       "name": "dev-accessibility-checker",
@@ -2595,7 +2595,7 @@
       ],
       "source": "dev-skills/accessibility-checker/SKILL.md",
       "payload": "skills/dev-accessibility-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-accessibility-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-accessibility-checker.html"
     },
     {
       "name": "dev-ai-agent-builder",
@@ -2621,7 +2621,7 @@
       ],
       "source": "dev-skills/ai-agent-builder/SKILL.md",
       "payload": "skills/dev-ai-agent-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ai-agent-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ai-agent-builder.html"
     },
     {
       "name": "dev-ai-workflow-orchestrator",
@@ -2644,7 +2644,7 @@
       ],
       "source": "dev-skills/ai-workflow-orchestrator/SKILL.md",
       "payload": "skills/dev-ai-workflow-orchestrator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ai-workflow-orchestrator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ai-workflow-orchestrator.html"
     },
     {
       "name": "dev-android-kotlin-advisor",
@@ -2668,7 +2668,7 @@
       ],
       "source": "dev-skills/android-kotlin-advisor/SKILL.md",
       "payload": "skills/dev-android-kotlin-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-android-kotlin-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-android-kotlin-advisor.html"
     },
     {
       "name": "dev-angular-guide",
@@ -2690,7 +2690,7 @@
       ],
       "source": "dev-skills/angular-guide/SKILL.md",
       "payload": "skills/dev-angular-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-angular-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-angular-guide.html"
     },
     {
       "name": "dev-api-doc-generator",
@@ -2710,7 +2710,7 @@
       ],
       "source": "dev-skills/api-doc-generator/SKILL.md",
       "payload": "skills/dev-api-doc-generator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-api-doc-generator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-api-doc-generator.html"
     },
     {
       "name": "dev-azure-devops-pipeline-advisor",
@@ -2731,7 +2731,7 @@
       ],
       "source": "dev-skills/azure-devops-pipeline-advisor/SKILL.md",
       "payload": "skills/dev-azure-devops-pipeline-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-azure-devops-pipeline-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-azure-devops-pipeline-advisor.html"
     },
     {
       "name": "dev-bug-debugger",
@@ -2755,7 +2755,7 @@
       ],
       "source": "dev-skills/bug-debugger/SKILL.md",
       "payload": "skills/dev-bug-debugger/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-bug-debugger.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-bug-debugger.html"
     },
     {
       "name": "dev-caching-strategy",
@@ -2778,7 +2778,7 @@
       ],
       "source": "dev-skills/caching-strategy/SKILL.md",
       "payload": "skills/dev-caching-strategy/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-caching-strategy.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-caching-strategy.html"
     },
     {
       "name": "dev-chrome-devtools-debugger",
@@ -2800,7 +2800,7 @@
       ],
       "source": "dev-skills/chrome-devtools-debugger/SKILL.md",
       "payload": "skills/dev-chrome-devtools-debugger/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-chrome-devtools-debugger.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-chrome-devtools-debugger.html"
     },
     {
       "name": "dev-cicd-pipeline-builder",
@@ -2824,7 +2824,7 @@
       ],
       "source": "dev-skills/cicd-pipeline-builder/SKILL.md",
       "payload": "skills/dev-cicd-pipeline-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-cicd-pipeline-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-cicd-pipeline-builder.html"
     },
     {
       "name": "dev-clean-architecture-guide",
@@ -2844,7 +2844,7 @@
       ],
       "source": "dev-skills/clean-architecture-guide/SKILL.md",
       "payload": "skills/dev-clean-architecture-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-clean-architecture-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-clean-architecture-guide.html"
     },
     {
       "name": "dev-cloud-cost-optimizer",
@@ -2867,7 +2867,7 @@
       ],
       "source": "dev-skills/cloud-cost-optimizer/SKILL.md",
       "payload": "skills/dev-cloud-cost-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-cloud-cost-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-cloud-cost-optimizer.html"
     },
     {
       "name": "dev-code-documentation-pro",
@@ -2891,7 +2891,7 @@
       ],
       "source": "dev-skills/code-documentation-pro/SKILL.md",
       "payload": "skills/dev-code-documentation-pro/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-code-documentation-pro.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-code-documentation-pro.html"
     },
     {
       "name": "dev-code-reviewer",
@@ -2912,7 +2912,7 @@
       ],
       "source": "dev-skills/code-reviewer/SKILL.md",
       "payload": "skills/dev-code-reviewer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-code-reviewer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-code-reviewer.html"
     },
     {
       "name": "dev-cron-job-designer",
@@ -2933,7 +2933,7 @@
       ],
       "source": "dev-skills/cron-job-designer/SKILL.md",
       "payload": "skills/dev-cron-job-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-cron-job-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-cron-job-designer.html"
     },
     {
       "name": "dev-css-layout-solver",
@@ -2960,7 +2960,7 @@
       ],
       "source": "dev-skills/css-layout-solver/SKILL.md",
       "payload": "skills/dev-css-layout-solver/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-css-layout-solver.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-css-layout-solver.html"
     },
     {
       "name": "dev-data-pipeline-builder",
@@ -2984,7 +2984,7 @@
       ],
       "source": "dev-skills/data-pipeline-builder/SKILL.md",
       "payload": "skills/dev-data-pipeline-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-data-pipeline-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-data-pipeline-builder.html"
     },
     {
       "name": "dev-data-validation-helper",
@@ -3006,7 +3006,7 @@
       ],
       "source": "dev-skills/data-validation-helper/SKILL.md",
       "payload": "skills/dev-data-validation-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-data-validation-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-data-validation-helper.html"
     },
     {
       "name": "dev-database-migration-helper",
@@ -3029,7 +3029,7 @@
       ],
       "source": "dev-skills/database-migration-helper/SKILL.md",
       "payload": "skills/dev-database-migration-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-database-migration-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-database-migration-helper.html"
     },
     {
       "name": "dev-database-query-optimizer",
@@ -3051,7 +3051,7 @@
       ],
       "source": "dev-skills/database-query-optimizer/SKILL.md",
       "payload": "skills/dev-database-query-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-database-query-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-database-query-optimizer.html"
     },
     {
       "name": "dev-design-critique",
@@ -3074,7 +3074,7 @@
       ],
       "source": "dev-skills/design-critique/SKILL.md",
       "payload": "skills/dev-design-critique/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-design-critique.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-design-critique.html"
     },
     {
       "name": "dev-design-patterns-advisor",
@@ -3098,7 +3098,7 @@
       ],
       "source": "dev-skills/design-patterns-advisor/SKILL.md",
       "payload": "skills/dev-design-patterns-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-design-patterns-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-design-patterns-advisor.html"
     },
     {
       "name": "dev-developer-onboarding-builder",
@@ -3120,7 +3120,7 @@
       ],
       "source": "dev-skills/developer-onboarding-builder/SKILL.md",
       "payload": "skills/dev-developer-onboarding-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-developer-onboarding-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-developer-onboarding-builder.html"
     },
     {
       "name": "dev-django-guide",
@@ -3141,7 +3141,7 @@
       ],
       "source": "dev-skills/django-guide/SKILL.md",
       "payload": "skills/dev-django-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-django-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-django-guide.html"
     },
     {
       "name": "dev-docker-composer",
@@ -3165,7 +3165,7 @@
       ],
       "source": "dev-skills/docker-composer/SKILL.md",
       "payload": "skills/dev-docker-composer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-docker-composer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-docker-composer.html"
     },
     {
       "name": "dev-dotnet-aspire-guide",
@@ -3185,7 +3185,7 @@
       ],
       "source": "dev-skills/dotnet-aspire-guide/SKILL.md",
       "payload": "skills/dev-dotnet-aspire-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-dotnet-aspire-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-dotnet-aspire-guide.html"
     },
     {
       "name": "dev-dotnet-csharp-advisor",
@@ -3210,7 +3210,7 @@
       ],
       "source": "dev-skills/dotnet-csharp-advisor/SKILL.md",
       "payload": "skills/dev-dotnet-csharp-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-dotnet-csharp-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-dotnet-csharp-advisor.html"
     },
     {
       "name": "dev-etl-designer",
@@ -3236,7 +3236,7 @@
       ],
       "source": "dev-skills/etl-designer/SKILL.md",
       "payload": "skills/dev-etl-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-etl-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-etl-designer.html"
     },
     {
       "name": "dev-event-driven-architect",
@@ -3260,7 +3260,7 @@
       ],
       "source": "dev-skills/event-driven-architect/SKILL.md",
       "payload": "skills/dev-event-driven-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-event-driven-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-event-driven-architect.html"
     },
     {
       "name": "dev-express-guide",
@@ -3281,7 +3281,7 @@
       ],
       "source": "dev-skills/express-guide/SKILL.md",
       "payload": "skills/dev-express-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-express-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-express-guide.html"
     },
     {
       "name": "dev-face-matching-kyc",
@@ -3304,7 +3304,7 @@
       ],
       "source": "dev-skills/face-matching-kyc/SKILL.md",
       "payload": "skills/dev-face-matching-kyc/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-face-matching-kyc.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-face-matching-kyc.html"
     },
     {
       "name": "dev-fastapi-guide",
@@ -3324,7 +3324,7 @@
       ],
       "source": "dev-skills/fastapi-guide/SKILL.md",
       "payload": "skills/dev-fastapi-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-fastapi-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-fastapi-guide.html"
     },
     {
       "name": "dev-feature-engineering-guide",
@@ -3345,7 +3345,7 @@
       ],
       "source": "dev-skills/feature-engineering-guide/SKILL.md",
       "payload": "skills/dev-feature-engineering-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-feature-engineering-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-feature-engineering-guide.html"
     },
     {
       "name": "dev-feature-flag-system",
@@ -3372,7 +3372,7 @@
       ],
       "source": "dev-skills/feature-flag-system/SKILL.md",
       "payload": "skills/dev-feature-flag-system/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-feature-flag-system.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-feature-flag-system.html"
     },
     {
       "name": "dev-flutter-helper",
@@ -3397,7 +3397,7 @@
       ],
       "source": "dev-skills/flutter-helper/SKILL.md",
       "payload": "skills/dev-flutter-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-flutter-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-flutter-helper.html"
     },
     {
       "name": "dev-game-design-patterns",
@@ -3419,7 +3419,7 @@
       ],
       "source": "dev-skills/game-design-patterns/SKILL.md",
       "payload": "skills/dev-game-design-patterns/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-game-design-patterns.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-game-design-patterns.html"
     },
     {
       "name": "dev-git-workflow-helper",
@@ -3440,7 +3440,7 @@
       ],
       "source": "dev-skills/git-workflow-helper/SKILL.md",
       "payload": "skills/dev-git-workflow-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-git-workflow-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-git-workflow-helper.html"
     },
     {
       "name": "dev-go-concurrency-guide",
@@ -3465,7 +3465,7 @@
       ],
       "source": "dev-skills/go-concurrency-guide/SKILL.md",
       "payload": "skills/dev-go-concurrency-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-go-concurrency-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-go-concurrency-guide.html"
     },
     {
       "name": "dev-gradle-build-expert",
@@ -3485,7 +3485,7 @@
       ],
       "source": "dev-skills/gradle-build-expert/SKILL.md",
       "payload": "skills/dev-gradle-build-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-gradle-build-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-gradle-build-expert.html"
     },
     {
       "name": "dev-graphql-builder",
@@ -3509,7 +3509,7 @@
       ],
       "source": "dev-skills/graphql-builder/SKILL.md",
       "payload": "skills/dev-graphql-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-graphql-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-graphql-builder.html"
     },
     {
       "name": "dev-grpc-service-designer",
@@ -3531,7 +3531,7 @@
       ],
       "source": "dev-skills/grpc-service-designer/SKILL.md",
       "payload": "skills/dev-grpc-service-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-grpc-service-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-grpc-service-designer.html"
     },
     {
       "name": "dev-hangfire-job-scheduler",
@@ -3553,7 +3553,7 @@
       ],
       "source": "dev-skills/hangfire-job-scheduler/SKILL.md",
       "payload": "skills/dev-hangfire-job-scheduler/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-hangfire-job-scheduler.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-hangfire-job-scheduler.html"
     },
     {
       "name": "dev-health-check-monitor",
@@ -3576,7 +3576,7 @@
       ],
       "source": "dev-skills/health-check-monitor/SKILL.md",
       "payload": "skills/dev-health-check-monitor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-health-check-monitor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-health-check-monitor.html"
     },
     {
       "name": "dev-image-processing-pipeline",
@@ -3597,7 +3597,7 @@
       ],
       "source": "dev-skills/image-processing-pipeline/SKILL.md",
       "payload": "skills/dev-image-processing-pipeline/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-image-processing-pipeline.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-image-processing-pipeline.html"
     },
     {
       "name": "dev-infrastructure-as-code",
@@ -3620,7 +3620,7 @@
       ],
       "source": "dev-skills/infrastructure-as-code/SKILL.md",
       "payload": "skills/dev-infrastructure-as-code/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-infrastructure-as-code.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-infrastructure-as-code.html"
     },
     {
       "name": "dev-integration-test-builder",
@@ -3644,7 +3644,7 @@
       ],
       "source": "dev-skills/integration-test-builder/SKILL.md",
       "payload": "skills/dev-integration-test-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-integration-test-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-integration-test-builder.html"
     },
     {
       "name": "dev-ios-swift-advisor",
@@ -3670,7 +3670,7 @@
       ],
       "source": "dev-skills/ios-swift-advisor/SKILL.md",
       "payload": "skills/dev-ios-swift-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ios-swift-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ios-swift-advisor.html"
     },
     {
       "name": "dev-java-spring-advisor",
@@ -3693,7 +3693,7 @@
       ],
       "source": "dev-skills/java-spring-advisor/SKILL.md",
       "payload": "skills/dev-java-spring-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-java-spring-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-java-spring-advisor.html"
     },
     {
       "name": "dev-kotlin-advanced",
@@ -3713,7 +3713,7 @@
       ],
       "source": "dev-skills/kotlin-advanced/SKILL.md",
       "payload": "skills/dev-kotlin-advanced/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-kotlin-advanced.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-kotlin-advanced.html"
     },
     {
       "name": "dev-kubernetes-helper",
@@ -3739,7 +3739,7 @@
       ],
       "source": "dev-skills/kubernetes-helper/SKILL.md",
       "payload": "skills/dev-kubernetes-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-kubernetes-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-kubernetes-helper.html"
     },
     {
       "name": "dev-laravel-guide",
@@ -3759,7 +3759,7 @@
       ],
       "source": "dev-skills/laravel-guide/SKILL.md",
       "payload": "skills/dev-laravel-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-laravel-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-laravel-guide.html"
     },
     {
       "name": "dev-llm-integration-guide",
@@ -3785,7 +3785,7 @@
       ],
       "source": "dev-skills/llm-integration-guide/SKILL.md",
       "payload": "skills/dev-llm-integration-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-llm-integration-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-llm-integration-guide.html"
     },
     {
       "name": "dev-load-test-planner",
@@ -3808,7 +3808,7 @@
       ],
       "source": "dev-skills/load-test-planner/SKILL.md",
       "payload": "skills/dev-load-test-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-load-test-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-load-test-planner.html"
     },
     {
       "name": "dev-log-analyzer",
@@ -3832,7 +3832,7 @@
       ],
       "source": "dev-skills/log-analyzer/SKILL.md",
       "payload": "skills/dev-log-analyzer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-log-analyzer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-log-analyzer.html"
     },
     {
       "name": "dev-message-queue-architect",
@@ -3856,7 +3856,7 @@
       ],
       "source": "dev-skills/message-queue-architect/SKILL.md",
       "payload": "skills/dev-message-queue-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-message-queue-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-message-queue-architect.html"
     },
     {
       "name": "dev-microservices-designer",
@@ -3877,7 +3877,7 @@
       ],
       "source": "dev-skills/microservices-designer/SKILL.md",
       "payload": "skills/dev-microservices-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-microservices-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-microservices-designer.html"
     },
     {
       "name": "dev-ml-model-deployer",
@@ -3900,7 +3900,7 @@
       ],
       "source": "dev-skills/ml-model-deployer/SKILL.md",
       "payload": "skills/dev-ml-model-deployer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ml-model-deployer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ml-model-deployer.html"
     },
     {
       "name": "dev-mobile-app-architect",
@@ -3922,7 +3922,7 @@
       ],
       "source": "dev-skills/mobile-app-architect/SKILL.md",
       "payload": "skills/dev-mobile-app-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-mobile-app-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-mobile-app-architect.html"
     },
     {
       "name": "dev-mobile-sdk-architect",
@@ -3945,7 +3945,7 @@
       ],
       "source": "dev-skills/mobile-sdk-architect/SKILL.md",
       "payload": "skills/dev-mobile-sdk-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-mobile-sdk-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-mobile-sdk-architect.html"
     },
     {
       "name": "dev-monitoring-setup",
@@ -3970,7 +3970,7 @@
       ],
       "source": "dev-skills/monitoring-setup/SKILL.md",
       "payload": "skills/dev-monitoring-setup/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-monitoring-setup.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-monitoring-setup.html"
     },
     {
       "name": "dev-nestjs-guide",
@@ -3991,7 +3991,7 @@
       ],
       "source": "dev-skills/nestjs-guide/SKILL.md",
       "payload": "skills/dev-nestjs-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-nestjs-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-nestjs-guide.html"
     },
     {
       "name": "dev-nextjs-guide",
@@ -4012,7 +4012,7 @@
       ],
       "source": "dev-skills/nextjs-guide/SKILL.md",
       "payload": "skills/dev-nextjs-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-nextjs-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-nextjs-guide.html"
     },
     {
       "name": "dev-nginx-configurator",
@@ -4033,7 +4033,7 @@
       ],
       "source": "dev-skills/nginx-configurator/SKILL.md",
       "payload": "skills/dev-nginx-configurator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-nginx-configurator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-nginx-configurator.html"
     },
     {
       "name": "dev-oauth2-oidc-advisor",
@@ -4059,7 +4059,7 @@
       ],
       "source": "dev-skills/oauth2-oidc-advisor/SKILL.md",
       "payload": "skills/dev-oauth2-oidc-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-oauth2-oidc-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-oauth2-oidc-advisor.html"
     },
     {
       "name": "dev-ocr-document-scanner",
@@ -4084,7 +4084,7 @@
       ],
       "source": "dev-skills/ocr-document-scanner/SKILL.md",
       "payload": "skills/dev-ocr-document-scanner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ocr-document-scanner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ocr-document-scanner.html"
     },
     {
       "name": "dev-openapi-contract-first",
@@ -4107,7 +4107,7 @@
       ],
       "source": "dev-skills/openapi-contract-first/SKILL.md",
       "payload": "skills/dev-openapi-contract-first/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-openapi-contract-first.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-openapi-contract-first.html"
     },
     {
       "name": "dev-outbox-pattern-guide",
@@ -4128,7 +4128,7 @@
       ],
       "source": "dev-skills/outbox-pattern-guide/SKILL.md",
       "payload": "skills/dev-outbox-pattern-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-outbox-pattern-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-outbox-pattern-guide.html"
     },
     {
       "name": "dev-owasp-checker",
@@ -4151,7 +4151,7 @@
       ],
       "source": "dev-skills/owasp-checker/SKILL.md",
       "payload": "skills/dev-owasp-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-owasp-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-owasp-checker.html"
     },
     {
       "name": "dev-pencil-ui-designer",
@@ -4174,7 +4174,7 @@
       ],
       "source": "dev-skills/pencil-ui-designer/SKILL.md",
       "payload": "skills/dev-pencil-ui-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-pencil-ui-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-pencil-ui-designer.html"
     },
     {
       "name": "dev-pentest-assistant",
@@ -4197,7 +4197,7 @@
       ],
       "source": "dev-skills/pentest-assistant/SKILL.md",
       "payload": "skills/dev-pentest-assistant/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-pentest-assistant.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-pentest-assistant.html"
     },
     {
       "name": "dev-performance-profiler",
@@ -4222,7 +4222,7 @@
       ],
       "source": "dev-skills/performance-profiler/SKILL.md",
       "payload": "skills/dev-performance-profiler/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-performance-profiler.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-performance-profiler.html"
     },
     {
       "name": "dev-pixel-art-advisor",
@@ -4247,7 +4247,7 @@
       ],
       "source": "dev-skills/pixel-art-advisor/SKILL.md",
       "payload": "skills/dev-pixel-art-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-pixel-art-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-pixel-art-advisor.html"
     },
     {
       "name": "dev-playwright-browser-automation",
@@ -4268,7 +4268,7 @@
       ],
       "source": "dev-skills/playwright-browser-automation/SKILL.md",
       "payload": "skills/dev-playwright-browser-automation/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-playwright-browser-automation.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-playwright-browser-automation.html"
     },
     {
       "name": "dev-prisma-expert",
@@ -4290,7 +4290,7 @@
       ],
       "source": "dev-skills/prisma-expert/SKILL.md",
       "payload": "skills/dev-prisma-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-prisma-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-prisma-expert.html"
     },
     {
       "name": "dev-project-estimation-helper",
@@ -4315,7 +4315,7 @@
       ],
       "source": "dev-skills/project-estimation-helper/SKILL.md",
       "payload": "skills/dev-project-estimation-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-project-estimation-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-project-estimation-helper.html"
     },
     {
       "name": "dev-prompt-engineering-pro",
@@ -4338,7 +4338,7 @@
       ],
       "source": "dev-skills/prompt-engineering-pro/SKILL.md",
       "payload": "skills/dev-prompt-engineering-pro/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-prompt-engineering-pro.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-prompt-engineering-pro.html"
     },
     {
       "name": "dev-python-best-practices",
@@ -4364,7 +4364,7 @@
       ],
       "source": "dev-skills/python-best-practices/SKILL.md",
       "payload": "skills/dev-python-best-practices/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-python-best-practices.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-python-best-practices.html"
     },
     {
       "name": "dev-rabbitmq-patterns-guide",
@@ -4388,7 +4388,7 @@
       ],
       "source": "dev-skills/rabbitmq-patterns-guide/SKILL.md",
       "payload": "skills/dev-rabbitmq-patterns-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-rabbitmq-patterns-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-rabbitmq-patterns-guide.html"
     },
     {
       "name": "dev-rag-pipeline-designer",
@@ -4413,7 +4413,7 @@
       ],
       "source": "dev-skills/rag-pipeline-designer/SKILL.md",
       "payload": "skills/dev-rag-pipeline-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-rag-pipeline-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-rag-pipeline-designer.html"
     },
     {
       "name": "dev-rate-limiter-designer",
@@ -4434,7 +4434,7 @@
       ],
       "source": "dev-skills/rate-limiter-designer/SKILL.md",
       "payload": "skills/dev-rate-limiter-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-rate-limiter-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-rate-limiter-designer.html"
     },
     {
       "name": "dev-react-component-builder",
@@ -4458,7 +4458,7 @@
       ],
       "source": "dev-skills/react-component-builder/SKILL.md",
       "payload": "skills/dev-react-component-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-react-component-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-react-component-builder.html"
     },
     {
       "name": "dev-react-native-guide",
@@ -4482,7 +4482,7 @@
       ],
       "source": "dev-skills/react-native-guide/SKILL.md",
       "payload": "skills/dev-react-native-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-react-native-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-react-native-guide.html"
     },
     {
       "name": "dev-regex-builder",
@@ -4503,7 +4503,7 @@
       ],
       "source": "dev-skills/regex-builder/SKILL.md",
       "payload": "skills/dev-regex-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-regex-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-regex-builder.html"
     },
     {
       "name": "dev-responsive-design-helper",
@@ -4526,7 +4526,7 @@
       ],
       "source": "dev-skills/responsive-design-helper/SKILL.md",
       "payload": "skills/dev-responsive-design-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-responsive-design-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-responsive-design-helper.html"
     },
     {
       "name": "dev-rest-api-designer",
@@ -4551,7 +4551,7 @@
       ],
       "source": "dev-skills/rest-api-designer/SKILL.md",
       "payload": "skills/dev-rest-api-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-rest-api-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-rest-api-designer.html"
     },
     {
       "name": "dev-rust-guide",
@@ -4576,7 +4576,7 @@
       ],
       "source": "dev-skills/rust-guide/SKILL.md",
       "payload": "skills/dev-rust-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-rust-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-rust-guide.html"
     },
     {
       "name": "dev-scalability-planner",
@@ -4599,7 +4599,7 @@
       ],
       "source": "dev-skills/scalability-planner/SKILL.md",
       "payload": "skills/dev-scalability-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-scalability-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-scalability-planner.html"
     },
     {
       "name": "dev-secrets-scanner",
@@ -4622,7 +4622,7 @@
       ],
       "source": "dev-skills/secrets-scanner/SKILL.md",
       "payload": "skills/dev-secrets-scanner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-secrets-scanner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-secrets-scanner.html"
     },
     {
       "name": "dev-security-auditor",
@@ -4642,7 +4642,7 @@
       ],
       "source": "dev-skills/security-auditor/SKILL.md",
       "payload": "skills/dev-security-auditor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-security-auditor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-security-auditor.html"
     },
     {
       "name": "dev-smart-contract-auditor",
@@ -4666,7 +4666,7 @@
       ],
       "source": "dev-skills/smart-contract-auditor/SKILL.md",
       "payload": "skills/dev-smart-contract-auditor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-smart-contract-auditor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-smart-contract-auditor.html"
     },
     {
       "name": "dev-sqlite-guide",
@@ -4688,7 +4688,7 @@
       ],
       "source": "dev-skills/sqlite-guide/SKILL.md",
       "payload": "skills/dev-sqlite-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-sqlite-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-sqlite-guide.html"
     },
     {
       "name": "dev-svelte-guide",
@@ -4709,7 +4709,7 @@
       ],
       "source": "dev-skills/svelte-guide/SKILL.md",
       "payload": "skills/dev-svelte-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-svelte-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-svelte-guide.html"
     },
     {
       "name": "dev-system-design-helper",
@@ -4731,7 +4731,7 @@
       ],
       "source": "dev-skills/system-design-helper/SKILL.md",
       "payload": "skills/dev-system-design-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-system-design-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-system-design-helper.html"
     },
     {
       "name": "dev-tailwind-expert",
@@ -4752,7 +4752,7 @@
       ],
       "source": "dev-skills/tailwind-expert/SKILL.md",
       "payload": "skills/dev-tailwind-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-tailwind-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-tailwind-expert.html"
     },
     {
       "name": "dev-tdd-coach",
@@ -4773,7 +4773,7 @@
       ],
       "source": "dev-skills/tdd-coach/SKILL.md",
       "payload": "skills/dev-tdd-coach/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-tdd-coach.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-tdd-coach.html"
     },
     {
       "name": "dev-tech-lead-advisor",
@@ -4797,7 +4797,7 @@
       ],
       "source": "dev-skills/tech-lead-advisor/SKILL.md",
       "payload": "skills/dev-tech-lead-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-tech-lead-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-tech-lead-advisor.html"
     },
     {
       "name": "dev-technical-writing-guide",
@@ -4820,7 +4820,7 @@
       ],
       "source": "dev-skills/technical-writing-guide/SKILL.md",
       "payload": "skills/dev-technical-writing-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-technical-writing-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-technical-writing-guide.html"
     },
     {
       "name": "dev-test-coverage-analyzer",
@@ -4843,7 +4843,7 @@
       ],
       "source": "dev-skills/test-coverage-analyzer/SKILL.md",
       "payload": "skills/dev-test-coverage-analyzer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-test-coverage-analyzer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-test-coverage-analyzer.html"
     },
     {
       "name": "dev-typescript-mastery",
@@ -4867,7 +4867,7 @@
       ],
       "source": "dev-skills/typescript-mastery/SKILL.md",
       "payload": "skills/dev-typescript-mastery/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-typescript-mastery.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-typescript-mastery.html"
     },
     {
       "name": "dev-ui-design-system-builder",
@@ -4890,7 +4890,7 @@
       ],
       "source": "dev-skills/ui-design-system-builder/SKILL.md",
       "payload": "skills/dev-ui-design-system-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ui-design-system-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ui-design-system-builder.html"
     },
     {
       "name": "dev-unit-test-generator",
@@ -4916,7 +4916,7 @@
       ],
       "source": "dev-skills/unit-test-generator/SKILL.md",
       "payload": "skills/dev-unit-test-generator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-unit-test-generator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-unit-test-generator.html"
     },
     {
       "name": "dev-unity-game-helper",
@@ -4941,7 +4941,7 @@
       ],
       "source": "dev-skills/unity-game-helper/SKILL.md",
       "payload": "skills/dev-unity-game-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-unity-game-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-unity-game-helper.html"
     },
     {
       "name": "dev-user-flow-designer",
@@ -4963,7 +4963,7 @@
       ],
       "source": "dev-skills/user-flow-designer/SKILL.md",
       "payload": "skills/dev-user-flow-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-user-flow-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-user-flow-designer.html"
     },
     {
       "name": "dev-ux-research-guide",
@@ -4986,7 +4986,7 @@
       ],
       "source": "dev-skills/ux-research-guide/SKILL.md",
       "payload": "skills/dev-ux-research-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-ux-research-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-ux-research-guide.html"
     },
     {
       "name": "dev-vue-guide",
@@ -5007,7 +5007,7 @@
       ],
       "source": "dev-skills/vue-guide/SKILL.md",
       "payload": "skills/dev-vue-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-vue-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-vue-guide.html"
     },
     {
       "name": "dev-vulnerability-analyzer",
@@ -5030,7 +5030,7 @@
       ],
       "source": "dev-skills/vulnerability-analyzer/SKILL.md",
       "payload": "skills/dev-vulnerability-analyzer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-vulnerability-analyzer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-vulnerability-analyzer.html"
     },
     {
       "name": "dev-web-performance-optimizer",
@@ -5055,7 +5055,7 @@
       ],
       "source": "dev-skills/web-performance-optimizer/SKILL.md",
       "payload": "skills/dev-web-performance-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-web-performance-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-web-performance-optimizer.html"
     },
     {
       "name": "dev-web3-dapp-builder",
@@ -5080,7 +5080,7 @@
       ],
       "source": "dev-skills/web3-dapp-builder/SKILL.md",
       "payload": "skills/dev-web3-dapp-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-web3-dapp-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-web3-dapp-builder.html"
     },
     {
       "name": "dev-websocket-designer",
@@ -5102,7 +5102,7 @@
       ],
       "source": "dev-skills/websocket-designer/SKILL.md",
       "payload": "skills/dev-websocket-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-websocket-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-websocket-designer.html"
     },
     {
       "name": "dev-wireframe-advisor",
@@ -5125,7 +5125,7 @@
       ],
       "source": "dev-skills/wireframe-advisor/SKILL.md",
       "payload": "skills/dev-wireframe-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/dev-wireframe-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/dev-wireframe-advisor.html"
     },
     {
       "name": "devops-ansible-playbook-builder",
@@ -5147,7 +5147,7 @@
       ],
       "source": "devops-skills/ansible-playbook-builder/SKILL.md",
       "payload": "skills/devops-ansible-playbook-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-ansible-playbook-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-ansible-playbook-builder.html"
     },
     {
       "name": "devops-argocd-guide",
@@ -5166,7 +5166,7 @@
       ],
       "source": "devops-skills/argocd-guide/SKILL.md",
       "payload": "skills/devops-argocd-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-argocd-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-argocd-guide.html"
     },
     {
       "name": "devops-azure-cloud-advisor",
@@ -5188,7 +5188,7 @@
       ],
       "source": "devops-skills/azure-cloud-advisor/SKILL.md",
       "payload": "skills/devops-azure-cloud-advisor/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-azure-cloud-advisor.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-azure-cloud-advisor.html"
     },
     {
       "name": "devops-docker-swarm-guide",
@@ -5206,7 +5206,7 @@
       ],
       "source": "devops-skills/docker-swarm-guide/SKILL.md",
       "payload": "skills/devops-docker-swarm-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-docker-swarm-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-docker-swarm-guide.html"
     },
     {
       "name": "devops-github-actions-expert",
@@ -5226,7 +5226,7 @@
       ],
       "source": "devops-skills/github-actions-expert/SKILL.md",
       "payload": "skills/devops-github-actions-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-github-actions-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-github-actions-expert.html"
     },
     {
       "name": "devops-gitlab-ci-guide",
@@ -5247,7 +5247,7 @@
       ],
       "source": "devops-skills/gitlab-ci-guide/SKILL.md",
       "payload": "skills/devops-gitlab-ci-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-gitlab-ci-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-gitlab-ci-guide.html"
     },
     {
       "name": "devops-helm-chart-builder",
@@ -5270,7 +5270,7 @@
       ],
       "source": "devops-skills/helm-chart-builder/SKILL.md",
       "payload": "skills/devops-helm-chart-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-helm-chart-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-helm-chart-builder.html"
     },
     {
       "name": "devops-prometheus-grafana-setup",
@@ -5295,7 +5295,7 @@
       ],
       "source": "devops-skills/prometheus-grafana-setup/SKILL.md",
       "payload": "skills/devops-prometheus-grafana-setup/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-prometheus-grafana-setup.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-prometheus-grafana-setup.html"
     },
     {
       "name": "devops-terraform-guide",
@@ -5318,7 +5318,7 @@
       ],
       "source": "devops-skills/terraform-guide/SKILL.md",
       "payload": "skills/devops-terraform-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/devops-terraform-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/devops-terraform-guide.html"
     },
     {
       "name": "docs-adr-writer",
@@ -5339,7 +5339,7 @@
       ],
       "source": "docs/adr-writer/SKILL.md",
       "payload": "skills/docs-adr-writer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/docs-adr-writer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/docs-adr-writer.html"
     },
     {
       "name": "education-concept-explainer",
@@ -5360,7 +5360,7 @@
       ],
       "source": "education-skills/concept-explainer/SKILL.md",
       "payload": "skills/education-concept-explainer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/education-concept-explainer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/education-concept-explainer.html"
     },
     {
       "name": "education-exam-prep",
@@ -5382,7 +5382,7 @@
       ],
       "source": "education-skills/exam-prep/SKILL.md",
       "payload": "skills/education-exam-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/education-exam-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/education-exam-prep.html"
     },
     {
       "name": "education-flashcard-generator",
@@ -5403,7 +5403,7 @@
       ],
       "source": "education-skills/flashcard-generator/SKILL.md",
       "payload": "skills/education-flashcard-generator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/education-flashcard-generator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/education-flashcard-generator.html"
     },
     {
       "name": "education-learning-roadmap",
@@ -5425,7 +5425,7 @@
       ],
       "source": "education-skills/learning-roadmap/SKILL.md",
       "payload": "skills/education-learning-roadmap/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/education-learning-roadmap.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/education-learning-roadmap.html"
     },
     {
       "name": "education-study-planner",
@@ -5446,7 +5446,7 @@
       ],
       "source": "education-skills/study-planner/SKILL.md",
       "payload": "skills/education-study-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/education-study-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/education-study-planner.html"
     },
     {
       "name": "finance-budget-tracker",
@@ -5468,7 +5468,7 @@
       ],
       "source": "finance-skills/budget-tracker/SKILL.md",
       "payload": "skills/finance-budget-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-budget-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-budget-tracker.html"
     },
     {
       "name": "finance-expense-analyzer",
@@ -5489,7 +5489,7 @@
       ],
       "source": "finance-skills/expense-analyzer/SKILL.md",
       "payload": "skills/finance-expense-analyzer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-expense-analyzer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-expense-analyzer.html"
     },
     {
       "name": "finance-fintech-compliance-checker",
@@ -5513,7 +5513,7 @@
       ],
       "source": "finance-skills/fintech-compliance-checker/SKILL.md",
       "payload": "skills/finance-fintech-compliance-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-fintech-compliance-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-fintech-compliance-checker.html"
     },
     {
       "name": "finance-investment-journal",
@@ -5534,7 +5534,7 @@
       ],
       "source": "finance-skills/investment-journal/SKILL.md",
       "payload": "skills/finance-investment-journal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-investment-journal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-investment-journal.html"
     },
     {
       "name": "finance-savings-goal-planner",
@@ -5555,7 +5555,7 @@
       ],
       "source": "finance-skills/savings-goal-planner/SKILL.md",
       "payload": "skills/finance-savings-goal-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-savings-goal-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-savings-goal-planner.html"
     },
     {
       "name": "finance-tax-prep-checklist",
@@ -5576,7 +5576,7 @@
       ],
       "source": "finance-skills/tax-prep-checklist/SKILL.md",
       "payload": "skills/finance-tax-prep-checklist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/finance-tax-prep-checklist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/finance-tax-prep-checklist.html"
     },
     {
       "name": "freelance-client-contract-builder",
@@ -5597,7 +5597,7 @@
       ],
       "source": "freelance-skills/client-contract-builder/SKILL.md",
       "payload": "skills/freelance-client-contract-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/freelance-client-contract-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/freelance-client-contract-builder.html"
     },
     {
       "name": "freelance-freelance-pricing",
@@ -5618,7 +5618,7 @@
       ],
       "source": "freelance-skills/freelance-pricing/SKILL.md",
       "payload": "skills/freelance-freelance-pricing/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/freelance-freelance-pricing.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/freelance-freelance-pricing.html"
     },
     {
       "name": "freelance-invoice-generator",
@@ -5639,7 +5639,7 @@
       ],
       "source": "freelance-skills/invoice-generator/SKILL.md",
       "payload": "skills/freelance-invoice-generator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/freelance-invoice-generator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/freelance-invoice-generator.html"
     },
     {
       "name": "freelance-portfolio-builder",
@@ -5660,7 +5660,7 @@
       ],
       "source": "freelance-skills/portfolio-builder/SKILL.md",
       "payload": "skills/freelance-portfolio-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/freelance-portfolio-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/freelance-portfolio-builder.html"
     },
     {
       "name": "health-allergy-reaction-log",
@@ -5683,7 +5683,7 @@
       ],
       "source": "health-skills/allergy-reaction-log/SKILL.md",
       "payload": "skills/health-allergy-reaction-log/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-allergy-reaction-log.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-allergy-reaction-log.html"
     },
     {
       "name": "health-blood-pressure-log",
@@ -5705,7 +5705,7 @@
       ],
       "source": "health-skills/blood-pressure-log/SKILL.md",
       "payload": "skills/health-blood-pressure-log/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-blood-pressure-log.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-blood-pressure-log.html"
     },
     {
       "name": "health-chronic-illness-dashboard",
@@ -5727,7 +5727,7 @@
       ],
       "source": "health-skills/chronic-illness-dashboard/SKILL.md",
       "payload": "skills/health-chronic-illness-dashboard/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-chronic-illness-dashboard.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-chronic-illness-dashboard.html"
     },
     {
       "name": "health-diet-trigger-journal",
@@ -5749,7 +5749,7 @@
       ],
       "source": "health-skills/diet-trigger-journal/SKILL.md",
       "payload": "skills/health-diet-trigger-journal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-diet-trigger-journal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-diet-trigger-journal.html"
     },
     {
       "name": "health-doctor-visit-prep",
@@ -5770,7 +5770,7 @@
       ],
       "source": "health-skills/doctor-visit-prep/SKILL.md",
       "payload": "skills/health-doctor-visit-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-doctor-visit-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-doctor-visit-prep.html"
     },
     {
       "name": "health-lab-explainer",
@@ -5797,7 +5797,7 @@
       ],
       "source": "health-skills/lab-explainer/SKILL.md",
       "payload": "skills/health-lab-explainer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-lab-explainer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-lab-explainer.html"
     },
     {
       "name": "health-medical-history-summary",
@@ -5817,7 +5817,7 @@
       ],
       "source": "health-skills/medical-history-summary/SKILL.md",
       "payload": "skills/health-medical-history-summary/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-medical-history-summary.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-medical-history-summary.html"
     },
     {
       "name": "health-medical-research-safe",
@@ -5837,7 +5837,7 @@
       ],
       "source": "health-skills/medical-research-safe/SKILL.md",
       "payload": "skills/health-medical-research-safe/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-medical-research-safe.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-medical-research-safe.html"
     },
     {
       "name": "health-medication-schedule",
@@ -5858,7 +5858,7 @@
       ],
       "source": "health-skills/medication-schedule/SKILL.md",
       "payload": "skills/health-medication-schedule/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-medication-schedule.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-medication-schedule.html"
     },
     {
       "name": "health-pain-journal",
@@ -5880,7 +5880,7 @@
       ],
       "source": "health-skills/pain-journal/SKILL.md",
       "payload": "skills/health-pain-journal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-pain-journal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-pain-journal.html"
     },
     {
       "name": "health-post-surgery-tracker",
@@ -5903,7 +5903,7 @@
       ],
       "source": "health-skills/post-surgery-tracker/SKILL.md",
       "payload": "skills/health-post-surgery-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-post-surgery-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-post-surgery-tracker.html"
     },
     {
       "name": "health-question-builder",
@@ -5923,7 +5923,7 @@
       ],
       "source": "health-skills/question-builder/SKILL.md",
       "payload": "skills/health-question-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-question-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-question-builder.html"
     },
     {
       "name": "health-red-flag-checker",
@@ -5944,7 +5944,7 @@
       ],
       "source": "health-skills/red-flag-checker/SKILL.md",
       "payload": "skills/health-red-flag-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-red-flag-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-red-flag-checker.html"
     },
     {
       "name": "health-sleep-journal",
@@ -5966,7 +5966,7 @@
       ],
       "source": "health-skills/sleep-journal/SKILL.md",
       "payload": "skills/health-sleep-journal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-sleep-journal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-sleep-journal.html"
     },
     {
       "name": "health-supplement-checker",
@@ -5988,7 +5988,7 @@
       ],
       "source": "health-skills/supplement-checker/SKILL.md",
       "payload": "skills/health-supplement-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-supplement-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-supplement-checker.html"
     },
     {
       "name": "health-symptom-tracker",
@@ -6009,7 +6009,7 @@
       ],
       "source": "health-skills/symptom-tracker/SKILL.md",
       "payload": "skills/health-symptom-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/health-symptom-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/health-symptom-tracker.html"
     },
     {
       "name": "iot-arduino-project-guide",
@@ -6031,7 +6031,7 @@
       ],
       "source": "iot-skills/arduino-project-guide/SKILL.md",
       "payload": "skills/iot-arduino-project-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/iot-arduino-project-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/iot-arduino-project-guide.html"
     },
     {
       "name": "iot-edge-computing-designer",
@@ -6052,7 +6052,7 @@
       ],
       "source": "iot-skills/edge-computing-designer/SKILL.md",
       "payload": "skills/iot-edge-computing-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/iot-edge-computing-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/iot-edge-computing-designer.html"
     },
     {
       "name": "iot-mqtt-architect",
@@ -6073,7 +6073,7 @@
       ],
       "source": "iot-skills/mqtt-architect/SKILL.md",
       "payload": "skills/iot-mqtt-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/iot-mqtt-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/iot-mqtt-architect.html"
     },
     {
       "name": "iot-raspberry-pi-setup",
@@ -6095,7 +6095,7 @@
       ],
       "source": "iot-skills/raspberry-pi-setup/SKILL.md",
       "payload": "skills/iot-raspberry-pi-setup/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/iot-raspberry-pi-setup.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/iot-raspberry-pi-setup.html"
     },
     {
       "name": "legal-complaint-letter-writer",
@@ -6116,7 +6116,7 @@
       ],
       "source": "legal-skills/complaint-letter-writer/SKILL.md",
       "payload": "skills/legal-complaint-letter-writer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/legal-complaint-letter-writer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/legal-complaint-letter-writer.html"
     },
     {
       "name": "legal-contract-reader",
@@ -6138,7 +6138,7 @@
       ],
       "source": "legal-skills/contract-reader/SKILL.md",
       "payload": "skills/legal-contract-reader/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/legal-contract-reader.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/legal-contract-reader.html"
     },
     {
       "name": "legal-gdpr-checklist",
@@ -6160,7 +6160,7 @@
       ],
       "source": "legal-skills/gdpr-checklist/SKILL.md",
       "payload": "skills/legal-gdpr-checklist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/legal-gdpr-checklist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/legal-gdpr-checklist.html"
     },
     {
       "name": "legal-small-claims-prep",
@@ -6182,7 +6182,7 @@
       ],
       "source": "legal-skills/small-claims-prep/SKILL.md",
       "payload": "skills/legal-small-claims-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/legal-small-claims-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/legal-small-claims-prep.html"
     },
     {
       "name": "legal-tenant-rights-guide",
@@ -6204,7 +6204,7 @@
       ],
       "source": "legal-skills/tenant-rights-guide/SKILL.md",
       "payload": "skills/legal-tenant-rights-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/legal-tenant-rights-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/legal-tenant-rights-guide.html"
     },
     {
       "name": "linux-bash-scripting-expert",
@@ -6225,7 +6225,7 @@
       ],
       "source": "linux-skills/bash-scripting-expert/SKILL.md",
       "payload": "skills/linux-bash-scripting-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/linux-bash-scripting-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/linux-bash-scripting-expert.html"
     },
     {
       "name": "linux-linux-admin-guide",
@@ -6248,7 +6248,7 @@
       ],
       "source": "linux-skills/linux-admin-guide/SKILL.md",
       "payload": "skills/linux-linux-admin-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/linux-linux-admin-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/linux-linux-admin-guide.html"
     },
     {
       "name": "linux-linux-security-hardener",
@@ -6270,7 +6270,7 @@
       ],
       "source": "linux-skills/linux-security-hardener/SKILL.md",
       "payload": "skills/linux-linux-security-hardener/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/linux-linux-security-hardener.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/linux-linux-security-hardener.html"
     },
     {
       "name": "linux-linux-troubleshooter",
@@ -6294,7 +6294,7 @@
       ],
       "source": "linux-skills/linux-troubleshooter/SKILL.md",
       "payload": "skills/linux-linux-troubleshooter/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/linux-linux-troubleshooter.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/linux-linux-troubleshooter.html"
     },
     {
       "name": "linux-systemd-manager",
@@ -6316,7 +6316,7 @@
       ],
       "source": "linux-skills/systemd-manager/SKILL.md",
       "payload": "skills/linux-systemd-manager/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/linux-systemd-manager.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/linux-systemd-manager.html"
     },
     {
       "name": "management-retro-facilitator",
@@ -6337,7 +6337,7 @@
       ],
       "source": "management-skills/retro-facilitator/SKILL.md",
       "payload": "skills/management-retro-facilitator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/management-retro-facilitator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/management-retro-facilitator.html"
     },
     {
       "name": "management-sprint-planner",
@@ -6359,7 +6359,7 @@
       ],
       "source": "management-skills/sprint-planner/SKILL.md",
       "payload": "skills/management-sprint-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/management-sprint-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/management-sprint-planner.html"
     },
     {
       "name": "management-stakeholder-communicator",
@@ -6381,7 +6381,7 @@
       ],
       "source": "management-skills/stakeholder-communicator/SKILL.md",
       "payload": "skills/management-stakeholder-communicator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/management-stakeholder-communicator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/management-stakeholder-communicator.html"
     },
     {
       "name": "management-team-velocity-tracker",
@@ -6403,7 +6403,7 @@
       ],
       "source": "management-skills/team-velocity-tracker/SKILL.md",
       "payload": "skills/management-team-velocity-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/management-team-velocity-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/management-team-velocity-tracker.html"
     },
     {
       "name": "management-technical-debt-manager",
@@ -6424,7 +6424,7 @@
       ],
       "source": "management-skills/technical-debt-manager/SKILL.md",
       "payload": "skills/management-technical-debt-manager/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/management-technical-debt-manager.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/management-technical-debt-manager.html"
     },
     {
       "name": "marketing-analytics-interpreter",
@@ -6446,7 +6446,7 @@
       ],
       "source": "marketing-skills/analytics-interpreter/SKILL.md",
       "payload": "skills/marketing-analytics-interpreter/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/marketing-analytics-interpreter.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/marketing-analytics-interpreter.html"
     },
     {
       "name": "marketing-email-marketing-designer",
@@ -6468,7 +6468,7 @@
       ],
       "source": "marketing-skills/email-marketing-designer/SKILL.md",
       "payload": "skills/marketing-email-marketing-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/marketing-email-marketing-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/marketing-email-marketing-designer.html"
     },
     {
       "name": "marketing-growth-hacking-strategist",
@@ -6490,7 +6490,7 @@
       ],
       "source": "marketing-skills/growth-hacking-strategist/SKILL.md",
       "payload": "skills/marketing-growth-hacking-strategist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/marketing-growth-hacking-strategist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/marketing-growth-hacking-strategist.html"
     },
     {
       "name": "marketing-seo-optimizer",
@@ -6512,7 +6512,7 @@
       ],
       "source": "marketing-skills/seo-optimizer/SKILL.md",
       "payload": "skills/marketing-seo-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/marketing-seo-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/marketing-seo-optimizer.html"
     },
     {
       "name": "marketing-social-media-strategist",
@@ -6534,7 +6534,7 @@
       ],
       "source": "marketing-skills/social-media-strategist/SKILL.md",
       "payload": "skills/marketing-social-media-strategist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/marketing-social-media-strategist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/marketing-social-media-strategist.html"
     },
     {
       "name": "ultra-concise-mode",
@@ -6556,7 +6556,7 @@
       ],
       "source": "meta-skills/ultra-concise-mode/SKILL.md",
       "payload": "skills/ultra-concise-mode/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/ultra-concise-mode.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/ultra-concise-mode.html"
     },
     {
       "name": "workflows",
@@ -6580,7 +6580,7 @@
       ],
       "source": "meta-skills/workflows/SKILL.md",
       "payload": "skills/workflows/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/workflows.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/workflows.html"
     },
     {
       "name": "networking-dns-expert",
@@ -6600,7 +6600,7 @@
       ],
       "source": "networking-skills/dns-expert/SKILL.md",
       "payload": "skills/networking-dns-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/networking-dns-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/networking-dns-expert.html"
     },
     {
       "name": "networking-firewall-configurator",
@@ -6620,7 +6620,7 @@
       ],
       "source": "networking-skills/firewall-configurator/SKILL.md",
       "payload": "skills/networking-firewall-configurator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/networking-firewall-configurator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/networking-firewall-configurator.html"
     },
     {
       "name": "networking-tcp-ip-troubleshooter",
@@ -6640,7 +6640,7 @@
       ],
       "source": "networking-skills/tcp-ip-troubleshooter/SKILL.md",
       "payload": "skills/networking-tcp-ip-troubleshooter/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/networking-tcp-ip-troubleshooter.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/networking-tcp-ip-troubleshooter.html"
     },
     {
       "name": "networking-vpn-architect",
@@ -6659,7 +6659,7 @@
       ],
       "source": "networking-skills/vpn-architect/SKILL.md",
       "payload": "skills/networking-vpn-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/networking-vpn-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/networking-vpn-architect.html"
     },
     {
       "name": "networking-wireshark-analyst",
@@ -6678,7 +6678,7 @@
       ],
       "source": "networking-skills/wireshark-analyst/SKILL.md",
       "payload": "skills/networking-wireshark-analyst/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/networking-wireshark-analyst.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/networking-wireshark-analyst.html"
     },
     {
       "name": "parenting-bedtime-routine-builder",
@@ -6698,7 +6698,7 @@
       ],
       "source": "parenting-skills/bedtime-routine-builder/SKILL.md",
       "payload": "skills/parenting-bedtime-routine-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/parenting-bedtime-routine-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/parenting-bedtime-routine-builder.html"
     },
     {
       "name": "parenting-child-milestone-tracker",
@@ -6720,7 +6720,7 @@
       ],
       "source": "parenting-skills/child-milestone-tracker/SKILL.md",
       "payload": "skills/parenting-child-milestone-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/parenting-child-milestone-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/parenting-child-milestone-tracker.html"
     },
     {
       "name": "parenting-homework-helper",
@@ -6741,7 +6741,7 @@
       ],
       "source": "parenting-skills/homework-helper/SKILL.md",
       "payload": "skills/parenting-homework-helper/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/parenting-homework-helper.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/parenting-homework-helper.html"
     },
     {
       "name": "parenting-parent-self-care",
@@ -6761,7 +6761,7 @@
       ],
       "source": "parenting-skills/parent-self-care/SKILL.md",
       "payload": "skills/parenting-parent-self-care/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/parenting-parent-self-care.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/parenting-parent-self-care.html"
     },
     {
       "name": "parenting-screen-time-planner",
@@ -6781,7 +6781,7 @@
       ],
       "source": "parenting-skills/screen-time-planner/SKILL.md",
       "payload": "skills/parenting-screen-time-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/parenting-screen-time-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/parenting-screen-time-planner.html"
     },
     {
       "name": "productivity-decision-matrix",
@@ -6802,7 +6802,7 @@
       ],
       "source": "productivity-skills/decision-matrix/SKILL.md",
       "payload": "skills/productivity-decision-matrix/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-decision-matrix.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-decision-matrix.html"
     },
     {
       "name": "productivity-habit-tracker",
@@ -6824,7 +6824,7 @@
       ],
       "source": "productivity-skills/habit-tracker/SKILL.md",
       "payload": "skills/productivity-habit-tracker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-habit-tracker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-habit-tracker.html"
     },
     {
       "name": "productivity-incident-postmortem-guide",
@@ -6847,7 +6847,7 @@
       ],
       "source": "productivity-skills/incident-postmortem-guide/SKILL.md",
       "payload": "skills/productivity-incident-postmortem-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-incident-postmortem-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-incident-postmortem-guide.html"
     },
     {
       "name": "productivity-meeting-summarizer",
@@ -6867,7 +6867,7 @@
       ],
       "source": "productivity-skills/meeting-summarizer/SKILL.md",
       "payload": "skills/productivity-meeting-summarizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-meeting-summarizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-meeting-summarizer.html"
     },
     {
       "name": "productivity-project-kickstart",
@@ -6889,7 +6889,7 @@
       ],
       "source": "productivity-skills/project-kickstart/SKILL.md",
       "payload": "skills/productivity-project-kickstart/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-project-kickstart.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-project-kickstart.html"
     },
     {
       "name": "productivity-weekly-planner",
@@ -6910,7 +6910,7 @@
       ],
       "source": "productivity-skills/weekly-planner/SKILL.md",
       "payload": "skills/productivity-weekly-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/productivity-weekly-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/productivity-weekly-planner.html"
     },
     {
       "name": "prompt-chain-of-thought-designer",
@@ -6931,7 +6931,7 @@
       ],
       "source": "prompt-skills/chain-of-thought-designer/SKILL.md",
       "payload": "skills/prompt-chain-of-thought-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-chain-of-thought-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-chain-of-thought-designer.html"
     },
     {
       "name": "prompt-debugger",
@@ -6951,7 +6951,7 @@
       ],
       "source": "prompt-skills/debugger/SKILL.md",
       "payload": "skills/prompt-debugger/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-debugger.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-debugger.html"
     },
     {
       "name": "prompt-mega-prompt-builder",
@@ -6971,7 +6971,7 @@
       ],
       "source": "prompt-skills/mega-prompt-builder/SKILL.md",
       "payload": "skills/prompt-mega-prompt-builder/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-mega-prompt-builder.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-mega-prompt-builder.html"
     },
     {
       "name": "prompt-optimizer",
@@ -6992,7 +6992,7 @@
       ],
       "source": "prompt-skills/optimizer/SKILL.md",
       "payload": "skills/prompt-optimizer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-optimizer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-optimizer.html"
     },
     {
       "name": "prompt-system-prompt-architect",
@@ -7013,7 +7013,7 @@
       ],
       "source": "prompt-skills/system-prompt-architect/SKILL.md",
       "payload": "skills/prompt-system-prompt-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-system-prompt-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-system-prompt-architect.html"
     },
     {
       "name": "prompt-translator",
@@ -7033,7 +7033,7 @@
       ],
       "source": "prompt-skills/translator/SKILL.md",
       "payload": "skills/prompt-translator/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/prompt-translator.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/prompt-translator.html"
     },
     {
       "name": "psy-addiction-awareness-log",
@@ -7055,7 +7055,7 @@
       ],
       "source": "psy-skills/addiction-awareness-log/SKILL.md",
       "payload": "skills/psy-addiction-awareness-log/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-addiction-awareness-log.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-addiction-awareness-log.html"
     },
     {
       "name": "psy-anxiety-debrief",
@@ -7078,7 +7078,7 @@
       ],
       "source": "psy-skills/anxiety-debrief/SKILL.md",
       "payload": "skills/psy-anxiety-debrief/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-anxiety-debrief.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-anxiety-debrief.html"
     },
     {
       "name": "psy-breathing-exercise-guide",
@@ -7100,7 +7100,7 @@
       ],
       "source": "psy-skills/breathing-exercise-guide/SKILL.md",
       "payload": "skills/psy-breathing-exercise-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-breathing-exercise-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-breathing-exercise-guide.html"
     },
     {
       "name": "psy-burnout-assessment",
@@ -7122,7 +7122,7 @@
       ],
       "source": "psy-skills/burnout-assessment/SKILL.md",
       "payload": "skills/psy-burnout-assessment/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-burnout-assessment.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-burnout-assessment.html"
     },
     {
       "name": "psy-cbt-thought-record",
@@ -7143,7 +7143,7 @@
       ],
       "source": "psy-skills/cbt-thought-record/SKILL.md",
       "payload": "skills/psy-cbt-thought-record/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-cbt-thought-record.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-cbt-thought-record.html"
     },
     {
       "name": "psy-crisis-escalation",
@@ -7164,7 +7164,7 @@
       ],
       "source": "psy-skills/crisis-escalation/SKILL.md",
       "payload": "skills/psy-crisis-escalation/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-crisis-escalation.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-crisis-escalation.html"
     },
     {
       "name": "psy-emotional-checkin",
@@ -7186,7 +7186,7 @@
       ],
       "source": "psy-skills/emotional-checkin/SKILL.md",
       "payload": "skills/psy-emotional-checkin/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-emotional-checkin.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-emotional-checkin.html"
     },
     {
       "name": "psy-grief-support",
@@ -7208,7 +7208,7 @@
       ],
       "source": "psy-skills/grief-support/SKILL.md",
       "payload": "skills/psy-grief-support/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-grief-support.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-grief-support.html"
     },
     {
       "name": "psy-med-side-effect-mood-log",
@@ -7228,7 +7228,7 @@
       ],
       "source": "psy-skills/med-side-effect-mood-log/SKILL.md",
       "payload": "skills/psy-med-side-effect-mood-log/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-med-side-effect-mood-log.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-med-side-effect-mood-log.html"
     },
     {
       "name": "psy-psychiatry-visit-prep",
@@ -7248,7 +7248,7 @@
       ],
       "source": "psy-skills/psychiatry-visit-prep/SKILL.md",
       "payload": "skills/psy-psychiatry-visit-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-psychiatry-visit-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-psychiatry-visit-prep.html"
     },
     {
       "name": "psy-psychology-visit-prep",
@@ -7268,7 +7268,7 @@
       ],
       "source": "psy-skills/psychology-visit-prep/SKILL.md",
       "payload": "skills/psy-psychology-visit-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-psychology-visit-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-psychology-visit-prep.html"
     },
     {
       "name": "psy-therapy-journal",
@@ -7288,7 +7288,7 @@
       ],
       "source": "psy-skills/therapy-journal/SKILL.md",
       "payload": "skills/psy-therapy-journal/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/psy-therapy-journal.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/psy-therapy-journal.html"
     },
     {
       "name": "security-api-security-hardener",
@@ -7311,7 +7311,7 @@
       ],
       "source": "security-skills/api-security-hardener/SKILL.md",
       "payload": "skills/security-api-security-hardener/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-api-security-hardener.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-api-security-hardener.html"
     },
     {
       "name": "security-compliance-checker",
@@ -7331,7 +7331,7 @@
       ],
       "source": "security-skills/compliance-checker/SKILL.md",
       "payload": "skills/security-compliance-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-compliance-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-compliance-checker.html"
     },
     {
       "name": "security-dependency-audit",
@@ -7355,7 +7355,7 @@
       ],
       "source": "security-skills/dependency-audit/SKILL.md",
       "payload": "skills/security-dependency-audit/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-dependency-audit.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-dependency-audit.html"
     },
     {
       "name": "security-incident-response-plan",
@@ -7377,7 +7377,7 @@
       ],
       "source": "security-skills/incident-response-plan/SKILL.md",
       "payload": "skills/security-incident-response-plan/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-incident-response-plan.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-incident-response-plan.html"
     },
     {
       "name": "security-security-audit-automation",
@@ -7397,7 +7397,7 @@
       ],
       "source": "security-skills/security-audit-automation/SKILL.md",
       "payload": "skills/security-security-audit-automation/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-security-audit-automation.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-security-audit-automation.html"
     },
     {
       "name": "security-soc-analyst-guide",
@@ -7419,7 +7419,7 @@
       ],
       "source": "security-skills/soc-analyst-guide/SKILL.md",
       "payload": "skills/security-soc-analyst-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-soc-analyst-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-soc-analyst-guide.html"
     },
     {
       "name": "security-threat-modeling",
@@ -7441,7 +7441,7 @@
       ],
       "source": "security-skills/threat-modeling/SKILL.md",
       "payload": "skills/security-threat-modeling/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-threat-modeling.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-threat-modeling.html"
     },
     {
       "name": "security-zero-trust-architect",
@@ -7459,7 +7459,7 @@
       ],
       "source": "security-skills/zero-trust-architect/SKILL.md",
       "payload": "skills/security-zero-trust-architect/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/security-zero-trust-architect.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/security-zero-trust-architect.html"
     },
     {
       "name": "social-boundary-setter",
@@ -7480,7 +7480,7 @@
       ],
       "source": "social-skills/boundary-setter/SKILL.md",
       "payload": "skills/social-boundary-setter/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/social-boundary-setter.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/social-boundary-setter.html"
     },
     {
       "name": "social-conflict-resolver",
@@ -7501,7 +7501,7 @@
       ],
       "source": "social-skills/conflict-resolver/SKILL.md",
       "payload": "skills/social-conflict-resolver/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/social-conflict-resolver.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/social-conflict-resolver.html"
     },
     {
       "name": "social-difficult-conversation-prep",
@@ -7522,7 +7522,7 @@
       ],
       "source": "social-skills/difficult-conversation-prep/SKILL.md",
       "payload": "skills/social-difficult-conversation-prep/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/social-difficult-conversation-prep.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/social-difficult-conversation-prep.html"
     },
     {
       "name": "social-feedback-giver",
@@ -7543,7 +7543,7 @@
       ],
       "source": "social-skills/feedback-giver/SKILL.md",
       "payload": "skills/social-feedback-giver/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/social-feedback-giver.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/social-feedback-giver.html"
     },
     {
       "name": "social-networking-script",
@@ -7565,7 +7565,7 @@
       ],
       "source": "social-skills/networking-script/SKILL.md",
       "payload": "skills/social-networking-script/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/social-networking-script.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/social-networking-script.html"
     },
     {
       "name": "testing-api-testing-expert",
@@ -7584,7 +7584,7 @@
       ],
       "source": "testing-skills/api-testing-expert/SKILL.md",
       "payload": "skills/testing-api-testing-expert/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-api-testing-expert.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-api-testing-expert.html"
     },
     {
       "name": "testing-chaos-engineering-guide",
@@ -7603,7 +7603,7 @@
       ],
       "source": "testing-skills/chaos-engineering-guide/SKILL.md",
       "payload": "skills/testing-chaos-engineering-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-chaos-engineering-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-chaos-engineering-guide.html"
     },
     {
       "name": "testing-cypress-e2e-guide",
@@ -7621,7 +7621,7 @@
       ],
       "source": "testing-skills/cypress-e2e-guide/SKILL.md",
       "payload": "skills/testing-cypress-e2e-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-cypress-e2e-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-cypress-e2e-guide.html"
     },
     {
       "name": "testing-mock-designer",
@@ -7642,7 +7642,7 @@
       ],
       "source": "testing-skills/mock-designer/SKILL.md",
       "payload": "skills/testing-mock-designer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-mock-designer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-mock-designer.html"
     },
     {
       "name": "testing-selenium-guide",
@@ -7660,7 +7660,7 @@
       ],
       "source": "testing-skills/selenium-guide/SKILL.md",
       "payload": "skills/testing-selenium-guide/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-selenium-guide.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-selenium-guide.html"
     },
     {
       "name": "testing-test-strategy-planner",
@@ -7678,7 +7678,7 @@
       ],
       "source": "testing-skills/test-strategy-planner/SKILL.md",
       "payload": "skills/testing-test-strategy-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/testing-test-strategy-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/testing-test-strategy-planner.html"
     },
     {
       "name": "travel-budget",
@@ -7698,7 +7698,7 @@
       ],
       "source": "travel-skills/budget/SKILL.md",
       "payload": "skills/travel-budget/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/travel-budget.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/travel-budget.html"
     },
     {
       "name": "travel-local-phrase-book",
@@ -7718,7 +7718,7 @@
       ],
       "source": "travel-skills/local-phrase-book/SKILL.md",
       "payload": "skills/travel-local-phrase-book/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/travel-local-phrase-book.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/travel-local-phrase-book.html"
     },
     {
       "name": "travel-packing-checklist",
@@ -7739,7 +7739,7 @@
       ],
       "source": "travel-skills/packing-checklist/SKILL.md",
       "payload": "skills/travel-packing-checklist/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/travel-packing-checklist.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/travel-packing-checklist.html"
     },
     {
       "name": "travel-trip-planner",
@@ -7760,7 +7760,7 @@
       ],
       "source": "travel-skills/trip-planner/SKILL.md",
       "payload": "skills/travel-trip-planner/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/travel-trip-planner.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/travel-trip-planner.html"
     },
     {
       "name": "travel-visa-checker",
@@ -7780,7 +7780,7 @@
       ],
       "source": "travel-skills/visa-checker/SKILL.md",
       "payload": "skills/travel-visa-checker/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/travel-visa-checker.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/travel-visa-checker.html"
     },
     {
       "name": "writing-blog-post-writer",
@@ -7801,7 +7801,7 @@
       ],
       "source": "writing-skills/blog-post-writer/SKILL.md",
       "payload": "skills/writing-blog-post-writer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-blog-post-writer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-blog-post-writer.html"
     },
     {
       "name": "writing-changelog-writer",
@@ -7822,7 +7822,7 @@
       ],
       "source": "writing-skills/changelog-writer/SKILL.md",
       "payload": "skills/writing-changelog-writer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-changelog-writer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-changelog-writer.html"
     },
     {
       "name": "writing-content-repurposer",
@@ -7843,7 +7843,7 @@
       ],
       "source": "writing-skills/content-repurposer/SKILL.md",
       "payload": "skills/writing-content-repurposer/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-content-repurposer.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-content-repurposer.html"
     },
     {
       "name": "writing-copywriting-assistant",
@@ -7867,7 +7867,7 @@
       ],
       "source": "writing-skills/copywriting-assistant/SKILL.md",
       "payload": "skills/writing-copywriting-assistant/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-copywriting-assistant.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-copywriting-assistant.html"
     },
     {
       "name": "writing-email-drafter",
@@ -7888,7 +7888,7 @@
       ],
       "source": "writing-skills/email-drafter/SKILL.md",
       "payload": "skills/writing-email-drafter/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-email-drafter.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-email-drafter.html"
     },
     {
       "name": "writing-proofreader-fr",
@@ -7909,7 +7909,7 @@
       ],
       "source": "writing-skills/proofreader-fr/SKILL.md",
       "payload": "skills/writing-proofreader-fr/SKILL.md",
-      "manual": "https://khalilbenaz.github.io/claude-skills-collection/manuals/writing-proofreader-fr.html"
+      "manual": "https://vantaflow.github.io/claude-skills-collection/manuals/writing-proofreader-fr.html"
     }
   ]
 }

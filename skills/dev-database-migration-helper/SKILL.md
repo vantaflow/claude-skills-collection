@@ -79,7 +79,7 @@ flyway repair      # si checksum corrompu
 databaseChangeLog:
   - changeSet:
       id: add-email-verified
-      author: k.benazzouz
+      author: vantaflow
       changes:
         - addColumn:
             tableName: users

@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Avant d'ouvrir : cherchez dans [le catalogue](https://khalilbenaz.github.io/claude-skills-collection/manuals/).
+        Avant d'ouvrir : cherchez dans [le catalogue](https://vantaflow.github.io/claude-skills-collection/manuals/).
         348 skills existent déjà — le vôtre est peut-être une amélioration d'un skill existant plutôt qu'un nouveau.
   - type: input
     id: name

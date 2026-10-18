@@ -17,7 +17,7 @@ La plus grande collection open-source de skills pour Claude — **348 skills** c
 ### 1. Toute la collection, en plugin Claude Code
 
 ```bash
-/plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+/plugin marketplace add https://github.com/vantaflow/claude-skills-collection
 /plugin install claude-skills-collection
 ```
 
@@ -30,7 +30,7 @@ Les 348 skills deviennent des slash commands (`/dev-docker-composer`, `/agent-sp
 Sept plugins découpent la collection par domaine. Chacun s'installe seul et ne charge que ses propres skills.
 
 ```bash
-/plugin marketplace add https://github.com/khalilbenaz/claude-skills-collection
+/plugin marketplace add https://github.com/vantaflow/claude-skills-collection
 /plugin install claude-skills-security     # 10 skills, ~1 800 tokens de contexte
 ```
 
@@ -58,16 +58,16 @@ Plus léger : seuls les skills choisis sont copiés dans `~/.claude/skills`.
 
 ```bash
 # macOS / Linux
-curl -fsSL https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.sh | sh -s -- dev-code-reviewer --launch
+curl -fsSL https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.sh | sh -s -- dev-code-reviewer --launch
 curl -fsSL .../install.sh | sh -s -- --category security     # la catégorie security-skills (8 skills)
 curl -fsSL .../install.sh | sh -s -- --search redis          # chercher avant d'installer
 curl -fsSL .../install.sh | sh -s -- --list                  # catégories et volumes
 
 # Windows (PowerShell)
-iex "& { $(iwr -useb https://raw.githubusercontent.com/khalilbenaz/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
+iex "& { $(iwr -useb https://raw.githubusercontent.com/vantaflow/claude-skills-collection/main/install.ps1) } dev-code-reviewer -Launch"
 ```
 
-> 📖 **Catalogue & manuels en ligne** : [khalilbenaz.github.io/claude-skills-collection/manuals](https://khalilbenaz.github.io/claude-skills-collection/manuals/) — un manuel détaillé par skill, recherche instantanée, installation en 1 commande.
+> 📖 **Catalogue & manuels en ligne** : [vantaflow.github.io/claude-skills-collection/manuals](https://vantaflow.github.io/claude-skills-collection/manuals/) — un manuel détaillé par skill, recherche instantanée, installation en 1 commande.
 > 🤖 **Index machine-lisible** : [`skills.json`](./skills.json) (nom, catégorie, résumé, déclencheurs, chemins) pour vos propres outils.
 
 ---
@@ -174,7 +174,7 @@ Détail skill par skill, avec déclencheurs : **[docs/SKILL_CATALOG.md](./docs/S
 
 ```bash
 # Claude.ai (hors Claude Code) : packager un skill en .skill
-git clone https://github.com/khalilbenaz/claude-skills-collection.git
+git clone https://github.com/vantaflow/claude-skills-collection.git
 cd claude-skills-collection/skills/agent-crewai-expert
 zip ../../crewai-expert.skill SKILL.md
 # → Importer le .skill dans Claude.ai (Paramètres → Skills)
@@ -229,8 +229,8 @@ Chaque skill embarque un bloc de règles de communication, **ajouté automatique
 Les contributions sont bienvenues.
 
 - **Guide complet** : [CONTRIBUTING](./docs/CONTRIBUTING.md) — source de vérité, artefacts générés, règles de validation.
-- **Signaler un skill qui se déclenche mal ou dit faux** : [ouvrir une issue](https://github.com/khalilbenaz/claude-skills-collection/issues/new/choose). Le prompt exact que vous avez tapé est la donnée la plus utile.
-- **Proposer un skill** : vérifiez d'abord [le catalogue](https://khalilbenaz.github.io/claude-skills-collection/manuals/) — 348 skills existent, le vôtre est peut-être une amélioration d'un skill existant.
+- **Signaler un skill qui se déclenche mal ou dit faux** : [ouvrir une issue](https://github.com/vantaflow/claude-skills-collection/issues/new/choose). Le prompt exact que vous avez tapé est la donnée la plus utile.
+- **Proposer un skill** : vérifiez d'abord [le catalogue](https://vantaflow.github.io/claude-skills-collection/manuals/) — 348 skills existent, le vôtre est peut-être une amélioration d'un skill existant.
 - **Sécurité** : [SECURITY.md](./SECURITY.md). Les failles se signalent en advisory privé, pas en issue publique.
 
 Deux règles qui font échouer la CI et qu'on oublie souvent : éditer un artefact généré au lieu de la source, et écrire une description dont les déclencheurs empiètent sur un skill existant (`npm run check:routing`).
@@ -255,5 +255,5 @@ MIT — Libre d'utilisation, modification et redistribution.
 
 <p align="center">
   <strong>348 skills • 34 catégories • 100% open-source</strong><br>
-  Fait avec 🤖💻🔒🧠🎨 par <a href="https://github.com/khalilbenaz">@khalilbenaz</a>
+  Fait avec 🤖💻🔒🧠🎨 par <a href="https://github.com/vantaflow">@vantaflow</a>
 </p>
